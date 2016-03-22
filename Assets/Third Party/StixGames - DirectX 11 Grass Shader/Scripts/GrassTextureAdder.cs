@@ -46,7 +46,10 @@ namespace StixGames
 				tex.SetPixels(pixels);
 				tex.Apply();
 
-				GetComponent<Renderer>().material.SetTexture("_Displacement", tex);
+				//GetComponent<Renderer>().material.SetTexture("_Displacement", tex);
+                GetComponent<Terrain>().materialTemplate.SetTexture("_Displacement", tex);
+              
+
 			}
 		}
 	}

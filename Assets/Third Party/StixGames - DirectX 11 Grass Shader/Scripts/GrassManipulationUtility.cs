@@ -18,7 +18,7 @@ namespace StixGames
 		/// <returns></returns>
 		public static Texture2D GetGrassTexture(Transform target, bool getColorHeight)
 		{
-			var material = target.GetComponent<Renderer>().material;
+			var material = target.GetComponent<Terrain>().materialTemplate;
 			var tex = material.GetTexture(getColorHeight ? "_ColorMap" :  "_Displacement") as Texture2D;
 
 			if (tex == null)

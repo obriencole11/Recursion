@@ -15,21 +15,21 @@ namespace TerrainGenerator
         public int Height { get; private set; }
 
         //The textures determined by steepness of the terrain
-        public Texture2D FlatTexture { get; private set; }
-        public Texture2D SteepTexture { get; private set; }
+        //public Texture2D FlatTexture { get; private set; }
+        //public Texture2D SteepTexture { get; private set; }
+        public Texture2D DisplacementTexture { get; private set; }
 
         //the material for the terrain
         public Material TerrainMaterial { get; private set; }
 
         //the class constructor for terrain settings
-        public TerrainChunkSettings(int heightmapResolution, int alphamapResolution, int length, int height, Texture2D flatTexture, Texture2D steepTexture, Material terrainMaterial)
+        public TerrainChunkSettings(int heightmapResolution, int alphamapResolution, int length, int height, Texture2D displacementTexture, Material terrainMaterial)
         {
             HeightmapResolution = heightmapResolution;
             AlphamapResolution = alphamapResolution;
             Length = length;
             Height = height;
-            FlatTexture = flatTexture;
-            SteepTexture = steepTexture;
+            DisplacementTexture = displacementTexture;
             TerrainMaterial = terrainMaterial;
         }
     }

@@ -10,17 +10,21 @@ namespace TerrainGenerator
         //The material for the terrain
         public Material TerrainMaterial;
         //different textures based on steepness
-        public Texture2D FlatTexture;
-        public Texture2D SteepTexture;
+        // public Texture2D FlatTexture;
+        //public Texture2D SteepTexture;
+
+        public Texture2D DisplacementTexture;
+
         //class references
         private TerrainChunkSettings Settings;
         private NoiseProvider NoiseProvider;
         private ChunkCache Cache;
+        private ObjectGenerator ObjectGenerator;
 
         private void Awake()
         {
             //create an new chunk settings with default values
-            Settings = new TerrainChunkSettings(129, 129, 100, 40, FlatTexture, SteepTexture, TerrainMaterial);
+            Settings = new TerrainChunkSettings(129, 129, 100, 40, DisplacementTexture, TerrainMaterial);
             //create a new noise provider
             NoiseProvider = new NoiseProvider();
             //create a new chunk cache
@@ -29,9 +33,6 @@ namespace TerrainGenerator
 
         private void Update()
         {
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-            }
             //update the cache
             Cache.Update();
         }

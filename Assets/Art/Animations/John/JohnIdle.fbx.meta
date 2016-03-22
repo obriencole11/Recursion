@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: 2620aed7172bf6b4bb24f9e5cddd8c4c
+timeCreated: 1458541195
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: JohnControl01:JohnLeftFKArm
+    100004: JohnControl01:JohnLeftFKForeArm
+    100006: JohnControl01:JohnLeftFKHand
+    100008: JohnControl01:JohnLeftHandFK
+    100010: JohnControl01:JohnLeftHandFKIndex1
+    100012: JohnControl01:JohnLeftHandFKIndex2
+    100014: JohnControl01:JohnLeftHandFKIndex3
+    100016: JohnControl01:JohnLeftHandFKIndex4
+    100018: JohnControl01:JohnLeftHandFKIndexOrient1
+    100020: JohnControl01:JohnLeftHandFKIndexOrient2
+    100022: JohnControl01:JohnLeftHandFKIndexOrient3
+    100024: JohnControl01:JohnLeftHandFKMiddle1
+    100026: JohnControl01:JohnLeftHandFKMiddle2
+    100028: JohnControl01:JohnLeftHandFKMiddle3
+    100030: JohnControl01:JohnLeftHandFKMiddle4
+    100032: JohnControl01:JohnLeftHandFKMiddleOrient1
+    100034: JohnControl01:JohnLeftHandFKMiddleOrient2
+    100036: JohnControl01:JohnLeftHandFKMiddleOrient3
+    100038: JohnControl01:JohnLeftHandFKPinky1
+    100040: JohnControl01:JohnLeftHandFKPinky2
+    100042: JohnControl01:JohnLeftHandFKPinky3
+    100044: JohnControl01:JohnLeftHandFKPinky4
+    100046: JohnControl01:JohnLeftHandFKPinkyOrient1
+    100048: JohnControl01:JohnLeftHandFKPinkyOrient2
+    100050: JohnControl01:JohnLeftHandFKPinkyOrient3
+    100052: JohnControl01:JohnLeftHandFKRing1
+    100054: JohnControl01:JohnLeftHandFKRing2
+    100056: JohnControl01:JohnLeftHandFKRing3
+    100058: JohnControl01:JohnLeftHandFKRing4
+    100060: JohnControl01:JohnLeftHandFKRingOrient1
+    100062: JohnControl01:JohnLeftHandFKRingOrient2
+    100064: JohnControl01:JohnLeftHandFKRingOrient3
+    100066: JohnControl01:JohnLeftHandFKThumb1
+    100068: JohnControl01:JohnLeftHandFKThumb2
+    100070: JohnControl01:JohnLeftHandFKThumb3
+    100072: JohnControl01:JohnLeftHandFKThumb4
+    100074: JohnControl01:JohnLeftHandFKThumbOrient1
+    100076: JohnControl01:JohnLeftHandFKThumbOrient2
+    100078: JohnControl01:JohnLeftHandFKThumbOrient3
+    100080: JohnControl01:JohnLeftIKArm
+    100082: JohnControl01:JohnLeftIKForeArm
+    100084: JohnControl01:JohnLeftIKHand
+    100086: JohnControl01:JohnLeftResultArm
+    100088: JohnControl01:JohnLeftResultForeArm
+    100090: JohnControl01:JohnResultHand
+    100092: JohnControl01:JohnResultHand 1
+    100094: JohnControl01:johnRig:JohnHead
+    100096: JohnControl01:johnRig:JohnHips
+    100098: JohnControl01:johnRig:JohnLeftArm
+    100100: JohnControl01:johnRig:JohnLeftArm1
+    100102: JohnControl01:johnRig:JohnLeftArm2
+    100104: JohnControl01:johnRig:JohnLeftArm3
+    100106: JohnControl01:johnRig:JohnLeftArm4
+    100108: JohnControl01:johnRig:JohnLeftFoot
+    100110: JohnControl01:johnRig:JohnLeftForeArm
+    100112: JohnControl01:johnRig:JohnLeftForeArm1
+    100114: JohnControl01:johnRig:JohnLeftForeArm2
+    100116: JohnControl01:johnRig:JohnLeftForeArm3
+    100118: JohnControl01:johnRig:JohnLeftHand
+    100120: JohnControl01:johnRig:JohnLeftHandIndex1
+    100122: JohnControl01:johnRig:JohnLeftHandIndex2
+    100124: JohnControl01:johnRig:JohnLeftHandIndex3
+    100126: JohnControl01:johnRig:JohnLeftHandIndex4
+    100128: JohnControl01:johnRig:JohnLeftHandIndexOrient1
+    100130: JohnControl01:johnRig:JohnLeftHandIndexOrient2
+    100132: JohnControl01:johnRig:JohnLeftHandIndexOrient3
+    100134: JohnControl01:johnRig:JohnLeftHandMiddle1
+    100136: JohnControl01:johnRig:JohnLeftHandMiddle2
+    100138: JohnControl01:johnRig:JohnLeftHandMiddle3
+    100140: JohnControl01:johnRig:JohnLeftHandMiddle4
+    100142: JohnControl01:johnRig:JohnLeftHandMiddleOrient1
+    100144: JohnControl01:johnRig:JohnLeftHandMiddleOrient2
+    100146: JohnControl01:johnRig:JohnLeftHandMiddleOrient3
+    100148: JohnControl01:johnRig:JohnLeftHandPinky1
+    100150: JohnControl01:johnRig:JohnLeftHandPinky2
+    100152: JohnControl01:johnRig:JohnLeftHandPinky3
+    100154: JohnControl01:johnRig:JohnLeftHandPinky4
+    100156: JohnControl01:johnRig:JohnLeftHandPinkyOrient1
+    100158: JohnControl01:johnRig:JohnLeftHandPinkyOrient2
+    100160: JohnControl01:johnRig:JohnLeftHandPinkyOrient3
+    100162: JohnControl01:johnRig:JohnLeftHandRing1
+    100164: JohnControl01:johnRig:JohnLeftHandRing2
+    100166: JohnControl01:johnRig:JohnLeftHandRing3
+    100168: JohnControl01:johnRig:JohnLeftHandRing4
+    100170: JohnControl01:johnRig:JohnLeftHandRingOrient1
+    100172: JohnControl01:johnRig:JohnLeftHandRingOrient2
+    100174: JohnControl01:johnRig:JohnLeftHandRingOrient3
+    100176: JohnControl01:johnRig:JohnLeftHandThumb1
+    100178: JohnControl01:johnRig:JohnLeftHandThumb2
+    100180: JohnControl01:johnRig:JohnLeftHandThumb3
+    100182: JohnControl01:johnRig:JohnLeftHandThumb4
+    100184: JohnControl01:johnRig:JohnLeftHandThumbOrient1
+    100186: JohnControl01:johnRig:JohnLeftHandThumbOrient2
+    100188: JohnControl01:johnRig:JohnLeftHandThumbOrient3
+    100190: JohnControl01:johnRig:JohnLeftLeg
+    100192: JohnControl01:johnRig:JohnLeftShoulder
+    100194: JohnControl01:johnRig:JohnLeftToe1
+    100196: JohnControl01:johnRig:JohnLeftToe2
+    100198: JohnControl01:johnRig:JohnLeftUpLeg
+    100200: JohnControl01:johnRig:JohnNeck
+    100202: JohnControl01:johnRig:JohnNeck01
+    100204: JohnControl01:johnRig:JohnRightArm
+    100206: JohnControl01:johnRig:JohnRightArm1
+    100208: JohnControl01:johnRig:JohnRightArm2
+    100210: JohnControl01:johnRig:JohnRightArm3
+    100212: JohnControl01:johnRig:JohnRightArm4
+    100214: JohnControl01:johnRig:JohnRightFoot
+    100216: JohnControl01:johnRig:JohnRightForeArm
+    100218: JohnControl01:johnRig:JohnRightForeArm1
+    100220: JohnControl01:johnRig:JohnRightForeArm2
+    100222: JohnControl01:johnRig:JohnRightForeArm3
+    100224: JohnControl01:johnRig:JohnRightHand
+    100226: JohnControl01:johnRig:JohnRightHandIndex1
+    100228: JohnControl01:johnRig:JohnRightHandIndex2
+    100230: JohnControl01:johnRig:JohnRightHandIndex3
+    100232: JohnControl01:johnRig:JohnRightHandIndex4
+    100234: JohnControl01:johnRig:JohnRightHandIndexOrient1
+    100236: JohnControl01:johnRig:JohnRightHandIndexOrient2
+    100238: JohnControl01:johnRig:JohnRightHandIndexOrient3
+    100240: JohnControl01:johnRig:JohnRightHandMiddle1
+    100242: JohnControl01:johnRig:JohnRightHandMiddle2
+    100244: JohnControl01:johnRig:JohnRightHandMiddle3
+    100246: JohnControl01:johnRig:JohnRightHandMiddle4
+    100248: JohnControl01:johnRig:JohnRightHandMiddleOrient1
+    100250: JohnControl01:johnRig:JohnRightHandMiddleOrient2
+    100252: JohnControl01:johnRig:JohnRightHandMiddleOrient3
+    100254: JohnControl01:johnRig:JohnRightHandPinky1
+    100256: JohnControl01:johnRig:JohnRightHandPinky2
+    100258: JohnControl01:johnRig:JohnRightHandPinky3
+    100260: JohnControl01:johnRig:JohnRightHandPinky4
+    100262: JohnControl01:johnRig:JohnRightHandPinkyOrient1
+    100264: JohnControl01:johnRig:JohnRightHandPinkyOrient2
+    100266: JohnControl01:johnRig:JohnRightHandPinkyOrient3
+    100268: JohnControl01:johnRig:JohnRightHandRing1
+    100270: JohnControl01:johnRig:JohnRightHandRing2
+    100272: JohnControl01:johnRig:JohnRightHandRing3
+    100274: JohnControl01:johnRig:JohnRightHandRing4
+    100276: JohnControl01:johnRig:JohnRightHandRingOrient1
+    100278: JohnControl01:johnRig:JohnRightHandRingOrient2
+    100280: JohnControl01:johnRig:JohnRightHandRingOrient3
+    100282: JohnControl01:johnRig:JohnRightHandThumb1
+    100284: JohnControl01:johnRig:JohnRightHandThumb2
+    100286: JohnControl01:johnRig:JohnRightHandThumb3
+    100288: JohnControl01:johnRig:JohnRightHandThumb4
+    100290: JohnControl01:johnRig:JohnRightHandThumbOrient1
+    100292: JohnControl01:johnRig:JohnRightHandThumbOrient2
+    100294: JohnControl01:johnRig:JohnRightHandThumbOrient3
+    100296: JohnControl01:johnRig:JohnRightLeg
+    100298: JohnControl01:johnRig:JohnRightShoulder
+    100300: JohnControl01:johnRig:JohnRightToe1
+    100302: JohnControl01:johnRig:JohnRightToe2
+    100304: JohnControl01:johnRig:JohnRightUpLeg
+    100306: JohnControl01:johnRig:JohnSkeleton
+    100308: JohnControl01:johnRig:JohnSpine
+    100310: JohnControl01:johnRig:JohnSpine1
+    100312: JohnControl01:johnRig:JohnSpine2
+    100314: JohnControl01:johnRig:JohnSpine3
+    100316: JohnControl01:johnRig:JohnSpine4
+    100318: JohnControl01:JohnRightFKArm
+    100320: JohnControl01:JohnRightFKForeArm
+    100322: JohnControl01:JohnRightFKHand
+    100324: JohnControl01:JohnRightHandFK
+    100326: JohnControl01:JohnRightHandFKIndex1
+    100328: JohnControl01:JohnRightHandFKIndex2
+    100330: JohnControl01:JohnRightHandFKIndex3
+    100332: JohnControl01:JohnRightHandFKIndex4
+    100334: JohnControl01:JohnRightHandFKIndexOrient1
+    100336: JohnControl01:JohnRightHandFKIndexOrient2
+    100338: JohnControl01:JohnRightHandFKIndexOrient3
+    100340: JohnControl01:JohnRightHandFKMiddle1
+    100342: JohnControl01:JohnRightHandFKMiddle2
+    100344: JohnControl01:JohnRightHandFKMiddle3
+    100346: JohnControl01:JohnRightHandFKMiddle4
+    100348: JohnControl01:JohnRightHandFKMiddleOrient1
+    100350: JohnControl01:JohnRightHandFKMiddleOrient2
+    100352: JohnControl01:JohnRightHandFKMiddleOrient3
+    100354: JohnControl01:JohnRightHandFKPinky1
+    100356: JohnControl01:JohnRightHandFKPinky2
+    100358: JohnControl01:JohnRightHandFKPinky3
+    100360: JohnControl01:JohnRightHandFKPinky4
+    100362: JohnControl01:JohnRightHandFKPinkyOrient1
+    100364: JohnControl01:JohnRightHandFKPinkyOrient2
+    100366: JohnControl01:JohnRightHandFKPinkyOrient3
+    100368: JohnControl01:JohnRightHandFKRing1
+    100370: JohnControl01:JohnRightHandFKRing2
+    100372: JohnControl01:JohnRightHandFKRing3
+    100374: JohnControl01:JohnRightHandFKRing4
+    100376: JohnControl01:JohnRightHandFKRingOrient1
+    100378: JohnControl01:JohnRightHandFKRingOrient2
+    100380: JohnControl01:JohnRightHandFKRingOrient3
+    100382: JohnControl01:JohnRightHandFKThumb1
+    100384: JohnControl01:JohnRightHandFKThumb2
+    100386: JohnControl01:JohnRightHandFKThumb3
+    100388: JohnControl01:JohnRightHandFKThumb4
+    100390: JohnControl01:JohnRightHandFKThumbOrient1
+    100392: JohnControl01:JohnRightHandFKThumbOrient2
+    100394: JohnControl01:JohnRightHandFKThumbOrient3
+    100396: JohnControl01:JohnRightIKArm
+    100398: JohnControl01:JohnRightIKForeArm
+    100400: JohnControl01:JohnRightIKHand
+    100402: JohnControl01:JohnRightResultArm
+    100404: JohnControl01:JohnRightResultForeArm
+    100406: JohnControl01:JointGroup
+    100408: JohnControl01:LeftArmGimbleCorrectionControl
+    100410: JohnControl01:leftArmResultGimbleGroup
+    100412: JohnControl01:LeftFootFKControl
+    100414: JohnControl01:LeftFootIKJoint
+    100416: JohnControl01:LeftFootNoFlipIKJoint
+    100418: JohnControl01:LeftFootPVIKJoint
+    100420: JohnControl01:LeftLegFKControl
+    100422: JohnControl01:LeftLegIKJoint
+    100424: JohnControl01:LeftLegNoFlipIKJoint
+    100426: JohnControl01:LeftLegPVIKJoint
+    100428: JohnControl01:LeftToe1FKControl
+    100430: JohnControl01:LeftToe1IKJoint
+    100432: JohnControl01:LeftToe2FKJoint
+    100434: JohnControl01:LeftToe2IKJoint
+    100436: JohnControl01:LeftUpLegFKControl
+    100438: JohnControl01:LeftUpLegIKJoint
+    100440: JohnControl01:LeftUpLegNoFlipIKJoint
+    100442: JohnControl01:LeftUpLegPVIKJoint
+    100444: JohnControl01:NeckShoulderConstLocator
+    100446: JohnControl01:pasted__NeckShoulderConstLocator
+    100448: JohnControl01:RightArmGimbleCorrectionControl
+    100450: JohnControl01:rightArmResultGimbleGroup
+    100452: JohnControl01:RightFootFKControlJoint
+    100454: JohnControl01:RightFootFKControlJoint 1
+    100456: JohnControl01:RightFootIKJoint
+    100458: JohnControl01:RightFootNoFlipIKJoint
+    100460: JohnControl01:RightFootPVIKJoint
+    100462: JohnControl01:RightLegFKControlJoint
+    100464: JohnControl01:RightLegFKControlJoint 1
+    100466: JohnControl01:RightLegIKJoint
+    100468: JohnControl01:RightLegNoFlipIKJoint
+    100470: JohnControl01:RightLegPVIKJoint
+    100472: JohnControl01:RightToe1FKControlJoint
+    100474: JohnControl01:RightToe1FKControlJoint 1
+    100476: JohnControl01:RightToe1IKJoint
+    100478: JohnControl01:RightToe2FKControlJoint
+    100480: JohnControl01:RightToe2FKControlJoint 1
+    100482: JohnControl01:RightToe2IKJoint
+    100484: JohnControl01:RightUpLegFKControlJoint
+    100486: JohnControl01:RightUpLegFKControlJointOLD
+    100488: JohnControl01:RightUpLegIKJoint
+    100490: JohnControl01:RightUpLegNoFlipIKJoint
+    100492: JohnControl01:RightUpLegPVIKJoint
+    100494: John:ControlGroup
+    100496: John:HandGlobalControl
+    100498: John:HandGlobalControl 1
+    100500: John:HandGroupLeft
+    100502: John:IndexFingerControl
+    100504: John:IndexFingerControl 1
+    100506: John:JohnControlRig
+    100508: John:JohnLeftHandFK
+    100510: John:JohnLeftHandFKIndex1
+    100512: John:JohnLeftHandFKIndex2
+    100514: John:JohnLeftHandFKIndex3
+    100516: John:JohnLeftHandFKIndex4
+    100518: John:JohnLeftHandFKIndexOrient1
+    100520: John:JohnLeftHandFKIndexOrient2
+    100522: John:JohnLeftHandFKIndexOrient3
+    100524: John:JohnLeftHandFKMiddle1
+    100526: John:JohnLeftHandFKMiddle2
+    100528: John:JohnLeftHandFKMiddle3
+    100530: John:JohnLeftHandFKMiddle4
+    100532: John:JohnLeftHandFKMiddleOrient1
+    100534: John:JohnLeftHandFKMiddleOrient2
+    100536: John:JohnLeftHandFKMiddleOrient3
+    100538: John:JohnLeftHandFKPinky1
+    100540: John:JohnLeftHandFKPinky2
+    100542: John:JohnLeftHandFKPinky3
+    100544: John:JohnLeftHandFKPinky4
+    100546: John:JohnLeftHandFKPinkyOrient1
+    100548: John:JohnLeftHandFKPinkyOrient2
+    100550: John:JohnLeftHandFKPinkyOrient3
+    100552: John:JohnLeftHandFKRing1
+    100554: John:JohnLeftHandFKRing2
+    100556: John:JohnLeftHandFKRing3
+    100558: John:JohnLeftHandFKRing4
+    100560: John:JohnLeftHandFKRingOrient1
+    100562: John:JohnLeftHandFKRingOrient2
+    100564: John:JohnLeftHandFKRingOrient3
+    100566: John:JohnLeftHandFKThumb1
+    100568: John:JohnLeftHandFKThumb2
+    100570: John:JohnLeftHandFKThumb3
+    100572: John:JohnLeftHandFKThumb4
+    100574: John:JohnLeftHandFKThumbOrient1
+    100576: John:JohnLeftHandFKThumbOrient2
+    100578: John:JohnLeftHandFKThumbOrient3
+    100580: John:johnRig:JohnHead
+    100582: John:johnRig:JohnHips
+    100584: John:johnRig:JohnLeftArm
+    100586: John:johnRig:JohnLeftArm1
+    100588: John:johnRig:JohnLeftArm2
+    100590: John:johnRig:JohnLeftArm3
+    100592: John:johnRig:JohnLeftArm4
+    100594: John:johnRig:JohnLeftFoot
+    100596: John:johnRig:JohnLeftForeArm
+    100598: John:johnRig:JohnLeftForeArm1
+    100600: John:johnRig:JohnLeftForeArm2
+    100602: John:johnRig:JohnLeftForeArm3
+    100604: John:johnRig:JohnLeftHand
+    100606: John:johnRig:JohnLeftHandIndex1
+    100608: John:johnRig:JohnLeftHandIndex2
+    100610: John:johnRig:JohnLeftHandIndex3
+    100612: John:johnRig:JohnLeftHandIndex4
+    100614: John:johnRig:JohnLeftHandIndexOrient1
+    100616: John:johnRig:JohnLeftHandIndexOrient2
+    100618: John:johnRig:JohnLeftHandIndexOrient3
+    100620: John:johnRig:JohnLeftHandMiddle1
+    100622: John:johnRig:JohnLeftHandMiddle2
+    100624: John:johnRig:JohnLeftHandMiddle3
+    100626: John:johnRig:JohnLeftHandMiddle4
+    100628: John:johnRig:JohnLeftHandMiddleOrient1
+    100630: John:johnRig:JohnLeftHandMiddleOrient2
+    100632: John:johnRig:JohnLeftHandMiddleOrient3
+    100634: John:johnRig:JohnLeftHandPinky1
+    100636: John:johnRig:JohnLeftHandPinky2
+    100638: John:johnRig:JohnLeftHandPinky3
+    100640: John:johnRig:JohnLeftHandPinky4
+    100642: John:johnRig:JohnLeftHandPinkyOrient1
+    100644: John:johnRig:JohnLeftHandPinkyOrient2
+    100646: John:johnRig:JohnLeftHandPinkyOrient3
+    100648: John:johnRig:JohnLeftHandRing1
+    100650: John:johnRig:JohnLeftHandRing2
+    100652: John:johnRig:JohnLeftHandRing3
+    100654: John:johnRig:JohnLeftHandRing4
+    100656: John:johnRig:JohnLeftHandRingOrient1
+    100658: John:johnRig:JohnLeftHandRingOrient2
+    100660: John:johnRig:JohnLeftHandRingOrient3
+    100662: John:johnRig:JohnLeftHandThumb1
+    100664: John:johnRig:JohnLeftHandThumb2
+    100666: John:johnRig:JohnLeftHandThumb3
+    100668: John:johnRig:JohnLeftHandThumb4
+    100670: John:johnRig:JohnLeftHandThumbOrient1
+    100672: John:johnRig:JohnLeftHandThumbOrient2
+    100674: John:johnRig:JohnLeftHandThumbOrient3
+    100676: John:johnRig:JohnLeftLeg
+    100678: John:johnRig:JohnLeftShoulder
+    100680: John:johnRig:JohnLeftToe1
+    100682: John:johnRig:JohnLeftToe2
+    100684: John:johnRig:JohnLeftUpLeg
+    100686: John:johnRig:JohnNeck
+    100688: John:johnRig:JohnNeck01
+    100690: John:johnRig:JohnRightArm
+    100692: John:johnRig:JohnRightArm1
+    100694: John:johnRig:JohnRightArm2
+    100696: John:johnRig:JohnRightArm3
+    100698: John:johnRig:JohnRightArm4
+    100700: John:johnRig:JohnRightFoot
+    100702: John:johnRig:JohnRightForeArm
+    100704: John:johnRig:JohnRightForeArm1
+    100706: John:johnRig:JohnRightForeArm2
+    100708: John:johnRig:JohnRightForeArm3
+    100710: John:johnRig:JohnRightHand
+    100712: John:johnRig:JohnRightHandIndex1
+    100714: John:johnRig:JohnRightHandIndex2
+    100716: John:johnRig:JohnRightHandIndex3
+    100718: John:johnRig:JohnRightHandIndex4
+    100720: John:johnRig:JohnRightHandIndexOrient1
+    100722: John:johnRig:JohnRightHandIndexOrient2
+    100724: John:johnRig:JohnRightHandIndexOrient3
+    100726: John:johnRig:JohnRightHandMiddle1
+    100728: John:johnRig:JohnRightHandMiddle2
+    100730: John:johnRig:JohnRightHandMiddle3
+    100732: John:johnRig:JohnRightHandMiddle4
+    100734: John:johnRig:JohnRightHandMiddleOrient1
+    100736: John:johnRig:JohnRightHandMiddleOrient2
+    100738: John:johnRig:JohnRightHandMiddleOrient3
+    100740: John:johnRig:JohnRightHandPinky1
+    100742: John:johnRig:JohnRightHandPinky2
+    100744: John:johnRig:JohnRightHandPinky3
+    100746: John:johnRig:JohnRightHandPinky4
+    100748: John:johnRig:JohnRightHandPinkyOrient1
+    100750: John:johnRig:JohnRightHandPinkyOrient2
+    100752: John:johnRig:JohnRightHandPinkyOrient3
+    100754: John:johnRig:JohnRightHandRing1
+    100756: John:johnRig:JohnRightHandRing2
+    100758: John:johnRig:JohnRightHandRing3
+    100760: John:johnRig:JohnRightHandRing4
+    100762: John:johnRig:JohnRightHandRingOrient1
+    100764: John:johnRig:JohnRightHandRingOrient2
+    100766: John:johnRig:JohnRightHandRingOrient3
+    100768: John:johnRig:JohnRightHandThumb1
+    100770: John:johnRig:JohnRightHandThumb2
+    100772: John:johnRig:JohnRightHandThumb3
+    100774: John:johnRig:JohnRightHandThumb4
+    100776: John:johnRig:JohnRightHandThumbOrient1
+    100778: John:johnRig:JohnRightHandThumbOrient2
+    100780: John:johnRig:JohnRightHandThumbOrient3
+    100782: John:johnRig:JohnRightLeg
+    100784: John:johnRig:JohnRightShoulder
+    100786: John:johnRig:JohnRightToe1
+    100788: John:johnRig:JohnRightToe2
+    100790: John:johnRig:JohnRightUpLeg
+    100792: John:johnRig:JohnSkeleton
+    100794: John:johnRig:JohnSpine
+    100796: John:johnRig:JohnSpine1
+    100798: John:johnRig:JohnSpine2
+    100800: John:johnRig:JohnSpine3
+    100802: John:johnRig:JohnSpine4
+    100804: John:JohnRightHandFK
+    100806: John:JohnRightHandFKIndex1
+    100808: John:JohnRightHandFKIndex2
+    100810: John:JohnRightHandFKIndexOrient1
+    100812: John:JohnRightHandFKIndexOrient2
+    100814: John:JohnRightHandFKIndexOrient3
+    100816: John:JohnRightHandFKMiddle1
+    100818: John:JohnRightHandFKMiddle2
+    100820: John:JohnRightHandFKMiddleOrient1
+    100822: John:JohnRightHandFKMiddleOrient2
+    100824: John:JohnRightHandFKMiddleOrient3
+    100826: John:JohnRightHandFKPinky1
+    100828: John:JohnRightHandFKPinky2
+    100830: John:JohnRightHandFKPinkyOrient1
+    100832: John:JohnRightHandFKPinkyOrient2
+    100834: John:JohnRightHandFKPinkyOrient3
+    100836: John:JohnRightHandFKRing1
+    100838: John:JohnRightHandFKRing2
+    100840: John:JohnRightHandFKRingOrient1
+    100842: John:JohnRightHandFKRingOrient2
+    100844: John:JohnRightHandFKRingOrient3
+    100846: John:JohnRightHandFKThumb1
+    100848: John:JohnRightHandFKThumb2
+    100850: John:JohnRightHandFKThumbOrient1
+    100852: John:JohnRightHandFKThumbOrient2
+    100854: John:JohnRightHandFKThumbOrient3
+    100856: John:JohnRootTransform
+    100858: John:LeftFootFKControl
+    100860: John:LeftFootIKJoint
+    100862: John:LeftFootNoFlipIKJoint
+    100864: John:LeftFootPVIKJoint
+    100866: John:LeftHandFKGroup
+    100868: John:LeftLegFKControl
+    100870: John:LeftLegIKJoint
+    100872: John:LeftLegNoFlipIKJoint
+    100874: John:LeftLegPVIKJoint
+    100876: John:LeftLegSettingsControl
+    100878: John:LeftLegSkeletonGroup
+    100880: John:LeftToe1FKControl
+    100882: John:LeftToe1IKJoint
+    100884: John:LeftToe2FKJoint
+    100886: John:LeftToe2IKJoint
+    100888: John:LeftUpLegFKControl
+    100890: John:LeftUpLegIKJoint
+    100892: John:LeftUpLegNoFlipIKJoint
+    100894: John:LeftUpLegPVIKJoint
+    100896: John:MiddleFingerControl
+    100898: John:MiddleFingerControl 1
+    100900: John:PinkyFingerControl
+    100902: John:PinkyFingerControl 1
+    100904: John:RightFootFKControlJoint
+    100906: John:RightFootIKJoint
+    100908: John:RightFootNoFlipIKJoint
+    100910: John:RightFootPVIKJoint
+    100912: John:RightHandFKGroup
+    100914: John:RightHandGroup
+    100916: John:RightLegFKControlJoint
+    100918: John:RightLegIKJoint
+    100920: John:RIghtLegIKSkeletonGroup
+    100922: John:RightLegNoFlipIKJoint
+    100924: John:RightLegPVIKJoint
+    100926: John:RightLegSettingsControl
+    100928: John:RightToe1FKControlJoint
+    100930: John:RightToe1IKJoint
+    100932: John:RightToe2FKControlJoint
+    100934: John:RightToe2IKJoint
+    100936: John:RightUpLegFKControlJoint
+    100938: John:RightUpLegIKJoint
+    100940: John:RightUpLegNoFlipIKJoint
+    100942: John:RightUpLegPVIKJoint
+    100944: John:RingFingerControl
+    100946: John:RingFingerControl 1
+    100948: John:SettingsGroup
+    100950: John:ThumbControl
+    100952: John:ThumbControl 1
+    400000: //RootNode
+    400002: JohnControl01:JohnLeftFKArm
+    400004: JohnControl01:JohnLeftFKForeArm
+    400006: JohnControl01:JohnLeftFKHand
+    400008: JohnControl01:JohnLeftHandFK
+    400010: JohnControl01:JohnLeftHandFKIndex1
+    400012: JohnControl01:JohnLeftHandFKIndex2
+    400014: JohnControl01:JohnLeftHandFKIndex3
+    400016: JohnControl01:JohnLeftHandFKIndex4
+    400018: JohnControl01:JohnLeftHandFKIndexOrient1
+    400020: JohnControl01:JohnLeftHandFKIndexOrient2
+    400022: JohnControl01:JohnLeftHandFKIndexOrient3
+    400024: JohnControl01:JohnLeftHandFKMiddle1
+    400026: JohnControl01:JohnLeftHandFKMiddle2
+    400028: JohnControl01:JohnLeftHandFKMiddle3
+    400030: JohnControl01:JohnLeftHandFKMiddle4
+    400032: JohnControl01:JohnLeftHandFKMiddleOrient1
+    400034: JohnControl01:JohnLeftHandFKMiddleOrient2
+    400036: JohnControl01:JohnLeftHandFKMiddleOrient3
+    400038: JohnControl01:JohnLeftHandFKPinky1
+    400040: JohnControl01:JohnLeftHandFKPinky2
+    400042: JohnControl01:JohnLeftHandFKPinky3
+    400044: JohnControl01:JohnLeftHandFKPinky4
+    400046: JohnControl01:JohnLeftHandFKPinkyOrient1
+    400048: JohnControl01:JohnLeftHandFKPinkyOrient2
+    400050: JohnControl01:JohnLeftHandFKPinkyOrient3
+    400052: JohnControl01:JohnLeftHandFKRing1
+    400054: JohnControl01:JohnLeftHandFKRing2
+    400056: JohnControl01:JohnLeftHandFKRing3
+    400058: JohnControl01:JohnLeftHandFKRing4
+    400060: JohnControl01:JohnLeftHandFKRingOrient1
+    400062: JohnControl01:JohnLeftHandFKRingOrient2
+    400064: JohnControl01:JohnLeftHandFKRingOrient3
+    400066: JohnControl01:JohnLeftHandFKThumb1
+    400068: JohnControl01:JohnLeftHandFKThumb2
+    400070: JohnControl01:JohnLeftHandFKThumb3
+    400072: JohnControl01:JohnLeftHandFKThumb4
+    400074: JohnControl01:JohnLeftHandFKThumbOrient1
+    400076: JohnControl01:JohnLeftHandFKThumbOrient2
+    400078: JohnControl01:JohnLeftHandFKThumbOrient3
+    400080: JohnControl01:JohnLeftIKArm
+    400082: JohnControl01:JohnLeftIKForeArm
+    400084: JohnControl01:JohnLeftIKHand
+    400086: JohnControl01:JohnLeftResultArm
+    400088: JohnControl01:JohnLeftResultForeArm
+    400090: JohnControl01:JohnResultHand
+    400092: JohnControl01:JohnResultHand 1
+    400094: JohnControl01:johnRig:JohnHead
+    400096: JohnControl01:johnRig:JohnHips
+    400098: JohnControl01:johnRig:JohnLeftArm
+    400100: JohnControl01:johnRig:JohnLeftArm1
+    400102: JohnControl01:johnRig:JohnLeftArm2
+    400104: JohnControl01:johnRig:JohnLeftArm3
+    400106: JohnControl01:johnRig:JohnLeftArm4
+    400108: JohnControl01:johnRig:JohnLeftFoot
+    400110: JohnControl01:johnRig:JohnLeftForeArm
+    400112: JohnControl01:johnRig:JohnLeftForeArm1
+    400114: JohnControl01:johnRig:JohnLeftForeArm2
+    400116: JohnControl01:johnRig:JohnLeftForeArm3
+    400118: JohnControl01:johnRig:JohnLeftHand
+    400120: JohnControl01:johnRig:JohnLeftHandIndex1
+    400122: JohnControl01:johnRig:JohnLeftHandIndex2
+    400124: JohnControl01:johnRig:JohnLeftHandIndex3
+    400126: JohnControl01:johnRig:JohnLeftHandIndex4
+    400128: JohnControl01:johnRig:JohnLeftHandIndexOrient1
+    400130: JohnControl01:johnRig:JohnLeftHandIndexOrient2
+    400132: JohnControl01:johnRig:JohnLeftHandIndexOrient3
+    400134: JohnControl01:johnRig:JohnLeftHandMiddle1
+    400136: JohnControl01:johnRig:JohnLeftHandMiddle2
+    400138: JohnControl01:johnRig:JohnLeftHandMiddle3
+    400140: JohnControl01:johnRig:JohnLeftHandMiddle4
+    400142: JohnControl01:johnRig:JohnLeftHandMiddleOrient1
+    400144: JohnControl01:johnRig:JohnLeftHandMiddleOrient2
+    400146: JohnControl01:johnRig:JohnLeftHandMiddleOrient3
+    400148: JohnControl01:johnRig:JohnLeftHandPinky1
+    400150: JohnControl01:johnRig:JohnLeftHandPinky2
+    400152: JohnControl01:johnRig:JohnLeftHandPinky3
+    400154: JohnControl01:johnRig:JohnLeftHandPinky4
+    400156: JohnControl01:johnRig:JohnLeftHandPinkyOrient1
+    400158: JohnControl01:johnRig:JohnLeftHandPinkyOrient2
+    400160: JohnControl01:johnRig:JohnLeftHandPinkyOrient3
+    400162: JohnControl01:johnRig:JohnLeftHandRing1
+    400164: JohnControl01:johnRig:JohnLeftHandRing2
+    400166: JohnControl01:johnRig:JohnLeftHandRing3
+    400168: JohnControl01:johnRig:JohnLeftHandRing4
+    400170: JohnControl01:johnRig:JohnLeftHandRingOrient1
+    400172: JohnControl01:johnRig:JohnLeftHandRingOrient2
+    400174: JohnControl01:johnRig:JohnLeftHandRingOrient3
+    400176: JohnControl01:johnRig:JohnLeftHandThumb1
+    400178: JohnControl01:johnRig:JohnLeftHandThumb2
+    400180: JohnControl01:johnRig:JohnLeftHandThumb3
+    400182: JohnControl01:johnRig:JohnLeftHandThumb4
+    400184: JohnControl01:johnRig:JohnLeftHandThumbOrient1
+    400186: JohnControl01:johnRig:JohnLeftHandThumbOrient2
+    400188: JohnControl01:johnRig:JohnLeftHandThumbOrient3
+    400190: JohnControl01:johnRig:JohnLeftLeg
+    400192: JohnControl01:johnRig:JohnLeftShoulder
+    400194: JohnControl01:johnRig:JohnLeftToe1
+    400196: JohnControl01:johnRig:JohnLeftToe2
+    400198: JohnControl01:johnRig:JohnLeftUpLeg
+    400200: JohnControl01:johnRig:JohnNeck
+    400202: JohnControl01:johnRig:JohnNeck01
+    400204: JohnControl01:johnRig:JohnRightArm
+    400206: JohnControl01:johnRig:JohnRightArm1
+    400208: JohnControl01:johnRig:JohnRightArm2
+    400210: JohnControl01:johnRig:JohnRightArm3
+    400212: JohnControl01:johnRig:JohnRightArm4
+    400214: JohnControl01:johnRig:JohnRightFoot
+    400216: JohnControl01:johnRig:JohnRightForeArm
+    400218: JohnControl01:johnRig:JohnRightForeArm1
+    400220: JohnControl01:johnRig:JohnRightForeArm2
+    400222: JohnControl01:johnRig:JohnRightForeArm3
+    400224: JohnControl01:johnRig:JohnRightHand
+    400226: JohnControl01:johnRig:JohnRightHandIndex1
+    400228: JohnControl01:johnRig:JohnRightHandIndex2
+    400230: JohnControl01:johnRig:JohnRightHandIndex3
+    400232: JohnControl01:johnRig:JohnRightHandIndex4
+    400234: JohnControl01:johnRig:JohnRightHandIndexOrient1
+    400236: JohnControl01:johnRig:JohnRightHandIndexOrient2
+    400238: JohnControl01:johnRig:JohnRightHandIndexOrient3
+    400240: JohnControl01:johnRig:JohnRightHandMiddle1
+    400242: JohnControl01:johnRig:JohnRightHandMiddle2
+    400244: JohnControl01:johnRig:JohnRightHandMiddle3
+    400246: JohnControl01:johnRig:JohnRightHandMiddle4
+    400248: JohnControl01:johnRig:JohnRightHandMiddleOrient1
+    400250: JohnControl01:johnRig:JohnRightHandMiddleOrient2
+    400252: JohnControl01:johnRig:JohnRightHandMiddleOrient3
+    400254: JohnControl01:johnRig:JohnRightHandPinky1
+    400256: JohnControl01:johnRig:JohnRightHandPinky2
+    400258: JohnControl01:johnRig:JohnRightHandPinky3
+    400260: JohnControl01:johnRig:JohnRightHandPinky4
+    400262: JohnControl01:johnRig:JohnRightHandPinkyOrient1
+    400264: JohnControl01:johnRig:JohnRightHandPinkyOrient2
+    400266: JohnControl01:johnRig:JohnRightHandPinkyOrient3
+    400268: JohnControl01:johnRig:JohnRightHandRing1
+    400270: JohnControl01:johnRig:JohnRightHandRing2
+    400272: JohnControl01:johnRig:JohnRightHandRing3
+    400274: JohnControl01:johnRig:JohnRightHandRing4
+    400276: JohnControl01:johnRig:JohnRightHandRingOrient1
+    400278: JohnControl01:johnRig:JohnRightHandRingOrient2
+    400280: JohnControl01:johnRig:JohnRightHandRingOrient3
+    400282: JohnControl01:johnRig:JohnRightHandThumb1
+    400284: JohnControl01:johnRig:JohnRightHandThumb2
+    400286: JohnControl01:johnRig:JohnRightHandThumb3
+    400288: JohnControl01:johnRig:JohnRightHandThumb4
+    400290: JohnControl01:johnRig:JohnRightHandThumbOrient1
+    400292: JohnControl01:johnRig:JohnRightHandThumbOrient2
+    400294: JohnControl01:johnRig:JohnRightHandThumbOrient3
+    400296: JohnControl01:johnRig:JohnRightLeg
+    400298: JohnControl01:johnRig:JohnRightShoulder
+    400300: JohnControl01:johnRig:JohnRightToe1
+    400302: JohnControl01:johnRig:JohnRightToe2
+    400304: JohnControl01:johnRig:JohnRightUpLeg
+    400306: JohnControl01:johnRig:JohnSkeleton
+    400308: JohnControl01:johnRig:JohnSpine
+    400310: JohnControl01:johnRig:JohnSpine1
+    400312: JohnControl01:johnRig:JohnSpine2
+    400314: JohnControl01:johnRig:JohnSpine3
+    400316: JohnControl01:johnRig:JohnSpine4
+    400318: JohnControl01:JohnRightFKArm
+    400320: JohnControl01:JohnRightFKForeArm
+    400322: JohnControl01:JohnRightFKHand
+    400324: JohnControl01:JohnRightHandFK
+    400326: JohnControl01:JohnRightHandFKIndex1
+    400328: JohnControl01:JohnRightHandFKIndex2
+    400330: JohnControl01:JohnRightHandFKIndex3
+    400332: JohnControl01:JohnRightHandFKIndex4
+    400334: JohnControl01:JohnRightHandFKIndexOrient1
+    400336: JohnControl01:JohnRightHandFKIndexOrient2
+    400338: JohnControl01:JohnRightHandFKIndexOrient3
+    400340: JohnControl01:JohnRightHandFKMiddle1
+    400342: JohnControl01:JohnRightHandFKMiddle2
+    400344: JohnControl01:JohnRightHandFKMiddle3
+    400346: JohnControl01:JohnRightHandFKMiddle4
+    400348: JohnControl01:JohnRightHandFKMiddleOrient1
+    400350: JohnControl01:JohnRightHandFKMiddleOrient2
+    400352: JohnControl01:JohnRightHandFKMiddleOrient3
+    400354: JohnControl01:JohnRightHandFKPinky1
+    400356: JohnControl01:JohnRightHandFKPinky2
+    400358: JohnControl01:JohnRightHandFKPinky3
+    400360: JohnControl01:JohnRightHandFKPinky4
+    400362: JohnControl01:JohnRightHandFKPinkyOrient1
+    400364: JohnControl01:JohnRightHandFKPinkyOrient2
+    400366: JohnControl01:JohnRightHandFKPinkyOrient3
+    400368: JohnControl01:JohnRightHandFKRing1
+    400370: JohnControl01:JohnRightHandFKRing2
+    400372: JohnControl01:JohnRightHandFKRing3
+    400374: JohnControl01:JohnRightHandFKRing4
+    400376: JohnControl01:JohnRightHandFKRingOrient1
+    400378: JohnControl01:JohnRightHandFKRingOrient2
+    400380: JohnControl01:JohnRightHandFKRingOrient3
+    400382: JohnControl01:JohnRightHandFKThumb1
+    400384: JohnControl01:JohnRightHandFKThumb2
+    400386: JohnControl01:JohnRightHandFKThumb3
+    400388: JohnControl01:JohnRightHandFKThumb4
+    400390: JohnControl01:JohnRightHandFKThumbOrient1
+    400392: JohnControl01:JohnRightHandFKThumbOrient2
+    400394: JohnControl01:JohnRightHandFKThumbOrient3
+    400396: JohnControl01:JohnRightIKArm
+    400398: JohnControl01:JohnRightIKForeArm
+    400400: JohnControl01:JohnRightIKHand
+    400402: JohnControl01:JohnRightResultArm
+    400404: JohnControl01:JohnRightResultForeArm
+    400406: JohnControl01:JointGroup
+    400408: JohnControl01:LeftArmGimbleCorrectionControl
+    400410: JohnControl01:leftArmResultGimbleGroup
+    400412: JohnControl01:LeftFootFKControl
+    400414: JohnControl01:LeftFootIKJoint
+    400416: JohnControl01:LeftFootNoFlipIKJoint
+    400418: JohnControl01:LeftFootPVIKJoint
+    400420: JohnControl01:LeftLegFKControl
+    400422: JohnControl01:LeftLegIKJoint
+    400424: JohnControl01:LeftLegNoFlipIKJoint
+    400426: JohnControl01:LeftLegPVIKJoint
+    400428: JohnControl01:LeftToe1FKControl
+    400430: JohnControl01:LeftToe1IKJoint
+    400432: JohnControl01:LeftToe2FKJoint
+    400434: JohnControl01:LeftToe2IKJoint
+    400436: JohnControl01:LeftUpLegFKControl
+    400438: JohnControl01:LeftUpLegIKJoint
+    400440: JohnControl01:LeftUpLegNoFlipIKJoint
+    400442: JohnControl01:LeftUpLegPVIKJoint
+    400444: JohnControl01:NeckShoulderConstLocator
+    400446: JohnControl01:pasted__NeckShoulderConstLocator
+    400448: JohnControl01:RightArmGimbleCorrectionControl
+    400450: JohnControl01:rightArmResultGimbleGroup
+    400452: JohnControl01:RightFootFKControlJoint
+    400454: JohnControl01:RightFootFKControlJoint 1
+    400456: JohnControl01:RightFootIKJoint
+    400458: JohnControl01:RightFootNoFlipIKJoint
+    400460: JohnControl01:RightFootPVIKJoint
+    400462: JohnControl01:RightLegFKControlJoint
+    400464: JohnControl01:RightLegFKControlJoint 1
+    400466: JohnControl01:RightLegIKJoint
+    400468: JohnControl01:RightLegNoFlipIKJoint
+    400470: JohnControl01:RightLegPVIKJoint
+    400472: JohnControl01:RightToe1FKControlJoint
+    400474: JohnControl01:RightToe1FKControlJoint 1
+    400476: JohnControl01:RightToe1IKJoint
+    400478: JohnControl01:RightToe2FKControlJoint
+    400480: JohnControl01:RightToe2FKControlJoint 1
+    400482: JohnControl01:RightToe2IKJoint
+    400484: JohnControl01:RightUpLegFKControlJoint
+    400486: JohnControl01:RightUpLegFKControlJointOLD
+    400488: JohnControl01:RightUpLegIKJoint
+    400490: JohnControl01:RightUpLegNoFlipIKJoint
+    400492: JohnControl01:RightUpLegPVIKJoint
+    400494: John:ControlGroup
+    400496: John:HandGlobalControl
+    400498: John:HandGlobalControl 1
+    400500: John:HandGroupLeft
+    400502: John:IndexFingerControl
+    400504: John:IndexFingerControl 1
+    400506: John:JohnControlRig
+    400508: John:JohnLeftHandFK
+    400510: John:JohnLeftHandFKIndex1
+    400512: John:JohnLeftHandFKIndex2
+    400514: John:JohnLeftHandFKIndex3
+    400516: John:JohnLeftHandFKIndex4
+    400518: John:JohnLeftHandFKIndexOrient1
+    400520: John:JohnLeftHandFKIndexOrient2
+    400522: John:JohnLeftHandFKIndexOrient3
+    400524: John:JohnLeftHandFKMiddle1
+    400526: John:JohnLeftHandFKMiddle2
+    400528: John:JohnLeftHandFKMiddle3
+    400530: John:JohnLeftHandFKMiddle4
+    400532: John:JohnLeftHandFKMiddleOrient1
+    400534: John:JohnLeftHandFKMiddleOrient2
+    400536: John:JohnLeftHandFKMiddleOrient3
+    400538: John:JohnLeftHandFKPinky1
+    400540: John:JohnLeftHandFKPinky2
+    400542: John:JohnLeftHandFKPinky3
+    400544: John:JohnLeftHandFKPinky4
+    400546: John:JohnLeftHandFKPinkyOrient1
+    400548: John:JohnLeftHandFKPinkyOrient2
+    400550: John:JohnLeftHandFKPinkyOrient3
+    400552: John:JohnLeftHandFKRing1
+    400554: John:JohnLeftHandFKRing2
+    400556: John:JohnLeftHandFKRing3
+    400558: John:JohnLeftHandFKRing4
+    400560: John:JohnLeftHandFKRingOrient1
+    400562: John:JohnLeftHandFKRingOrient2
+    400564: John:JohnLeftHandFKRingOrient3
+    400566: John:JohnLeftHandFKThumb1
+    400568: John:JohnLeftHandFKThumb2
+    400570: John:JohnLeftHandFKThumb3
+    400572: John:JohnLeftHandFKThumb4
+    400574: John:JohnLeftHandFKThumbOrient1
+    400576: John:JohnLeftHandFKThumbOrient2
+    400578: John:JohnLeftHandFKThumbOrient3
+    400580: John:johnRig:JohnHead
+    400582: John:johnRig:JohnHips
+    400584: John:johnRig:JohnLeftArm
+    400586: John:johnRig:JohnLeftArm1
+    400588: John:johnRig:JohnLeftArm2
+    400590: John:johnRig:JohnLeftArm3
+    400592: John:johnRig:JohnLeftArm4
+    400594: John:johnRig:JohnLeftFoot
+    400596: John:johnRig:JohnLeftForeArm
+    400598: John:johnRig:JohnLeftForeArm1
+    400600: John:johnRig:JohnLeftForeArm2
+    400602: John:johnRig:JohnLeftForeArm3
+    400604: John:johnRig:JohnLeftHand
+    400606: John:johnRig:JohnLeftHandIndex1
+    400608: John:johnRig:JohnLeftHandIndex2
+    400610: John:johnRig:JohnLeftHandIndex3
+    400612: John:johnRig:JohnLeftHandIndex4
+    400614: John:johnRig:JohnLeftHandIndexOrient1
+    400616: John:johnRig:JohnLeftHandIndexOrient2
+    400618: John:johnRig:JohnLeftHandIndexOrient3
+    400620: John:johnRig:JohnLeftHandMiddle1
+    400622: John:johnRig:JohnLeftHandMiddle2
+    400624: John:johnRig:JohnLeftHandMiddle3
+    400626: John:johnRig:JohnLeftHandMiddle4
+    400628: John:johnRig:JohnLeftHandMiddleOrient1
+    400630: John:johnRig:JohnLeftHandMiddleOrient2
+    400632: John:johnRig:JohnLeftHandMiddleOrient3
+    400634: John:johnRig:JohnLeftHandPinky1
+    400636: John:johnRig:JohnLeftHandPinky2
+    400638: John:johnRig:JohnLeftHandPinky3
+    400640: John:johnRig:JohnLeftHandPinky4
+    400642: John:johnRig:JohnLeftHandPinkyOrient1
+    400644: John:johnRig:JohnLeftHandPinkyOrient2
+    400646: John:johnRig:JohnLeftHandPinkyOrient3
+    400648: John:johnRig:JohnLeftHandRing1
+    400650: John:johnRig:JohnLeftHandRing2
+    400652: John:johnRig:JohnLeftHandRing3
+    400654: John:johnRig:JohnLeftHandRing4
+    400656: John:johnRig:JohnLeftHandRingOrient1
+    400658: John:johnRig:JohnLeftHandRingOrient2
+    400660: John:johnRig:JohnLeftHandRingOrient3
+    400662: John:johnRig:JohnLeftHandThumb1
+    400664: John:johnRig:JohnLeftHandThumb2
+    400666: John:johnRig:JohnLeftHandThumb3
+    400668: John:johnRig:JohnLeftHandThumb4
+    400670: John:johnRig:JohnLeftHandThumbOrient1
+    400672: John:johnRig:JohnLeftHandThumbOrient2
+    400674: John:johnRig:JohnLeftHandThumbOrient3
+    400676: John:johnRig:JohnLeftLeg
+    400678: John:johnRig:JohnLeftShoulder
+    400680: John:johnRig:JohnLeftToe1
+    400682: John:johnRig:JohnLeftToe2
+    400684: John:johnRig:JohnLeftUpLeg
+    400686: John:johnRig:JohnNeck
+    400688: John:johnRig:JohnNeck01
+    400690: John:johnRig:JohnRightArm
+    400692: John:johnRig:JohnRightArm1
+    400694: John:johnRig:JohnRightArm2
+    400696: John:johnRig:JohnRightArm3
+    400698: John:johnRig:JohnRightArm4
+    400700: John:johnRig:JohnRightFoot
+    400702: John:johnRig:JohnRightForeArm
+    400704: John:johnRig:JohnRightForeArm1
+    400706: John:johnRig:JohnRightForeArm2
+    400708: John:johnRig:JohnRightForeArm3
+    400710: John:johnRig:JohnRightHand
+    400712: John:johnRig:JohnRightHandIndex1
+    400714: John:johnRig:JohnRightHandIndex2
+    400716: John:johnRig:JohnRightHandIndex3
+    400718: John:johnRig:JohnRightHandIndex4
+    400720: John:johnRig:JohnRightHandIndexOrient1
+    400722: John:johnRig:JohnRightHandIndexOrient2
+    400724: John:johnRig:JohnRightHandIndexOrient3
+    400726: John:johnRig:JohnRightHandMiddle1
+    400728: John:johnRig:JohnRightHandMiddle2
+    400730: John:johnRig:JohnRightHandMiddle3
+    400732: John:johnRig:JohnRightHandMiddle4
+    400734: John:johnRig:JohnRightHandMiddleOrient1
+    400736: John:johnRig:JohnRightHandMiddleOrient2
+    400738: John:johnRig:JohnRightHandMiddleOrient3
+    400740: John:johnRig:JohnRightHandPinky1
+    400742: John:johnRig:JohnRightHandPinky2
+    400744: John:johnRig:JohnRightHandPinky3
+    400746: John:johnRig:JohnRightHandPinky4
+    400748: John:johnRig:JohnRightHandPinkyOrient1
+    400750: John:johnRig:JohnRightHandPinkyOrient2
+    400752: John:johnRig:JohnRightHandPinkyOrient3
+    400754: John:johnRig:JohnRightHandRing1
+    400756: John:johnRig:JohnRightHandRing2
+    400758: John:johnRig:JohnRightHandRing3
+    400760: John:johnRig:JohnRightHandRing4
+    400762: John:johnRig:JohnRightHandRingOrient1
+    400764: John:johnRig:JohnRightHandRingOrient2
+    400766: John:johnRig:JohnRightHandRingOrient3
+    400768: John:johnRig:JohnRightHandThumb1
+    400770: John:johnRig:JohnRightHandThumb2
+    400772: John:johnRig:JohnRightHandThumb3
+    400774: John:johnRig:JohnRightHandThumb4
+    400776: John:johnRig:JohnRightHandThumbOrient1
+    400778: John:johnRig:JohnRightHandThumbOrient2
+    400780: John:johnRig:JohnRightHandThumbOrient3
+    400782: John:johnRig:JohnRightLeg
+    400784: John:johnRig:JohnRightShoulder
+    400786: John:johnRig:JohnRightToe1
+    400788: John:johnRig:JohnRightToe2
+    400790: John:johnRig:JohnRightUpLeg
+    400792: John:johnRig:JohnSkeleton
+    400794: John:johnRig:JohnSpine
+    400796: John:johnRig:JohnSpine1
+    400798: John:johnRig:JohnSpine2
+    400800: John:johnRig:JohnSpine3
+    400802: John:johnRig:JohnSpine4
+    400804: John:JohnRightHandFK
+    400806: John:JohnRightHandFKIndex1
+    400808: John:JohnRightHandFKIndex2
+    400810: John:JohnRightHandFKIndexOrient1
+    400812: John:JohnRightHandFKIndexOrient2
+    400814: John:JohnRightHandFKIndexOrient3
+    400816: John:JohnRightHandFKMiddle1
+    400818: John:JohnRightHandFKMiddle2
+    400820: John:JohnRightHandFKMiddleOrient1
+    400822: John:JohnRightHandFKMiddleOrient2
+    400824: John:JohnRightHandFKMiddleOrient3
+    400826: John:JohnRightHandFKPinky1
+    400828: John:JohnRightHandFKPinky2
+    400830: John:JohnRightHandFKPinkyOrient1
+    400832: John:JohnRightHandFKPinkyOrient2
+    400834: John:JohnRightHandFKPinkyOrient3
+    400836: John:JohnRightHandFKRing1
+    400838: John:JohnRightHandFKRing2
+    400840: John:JohnRightHandFKRingOrient1
+    400842: John:JohnRightHandFKRingOrient2
+    400844: John:JohnRightHandFKRingOrient3
+    400846: John:JohnRightHandFKThumb1
+    400848: John:JohnRightHandFKThumb2
+    400850: John:JohnRightHandFKThumbOrient1
+    400852: John:JohnRightHandFKThumbOrient2
+    400854: John:JohnRightHandFKThumbOrient3
+    400856: John:JohnRootTransform
+    400858: John:LeftFootFKControl
+    400860: John:LeftFootIKJoint
+    400862: John:LeftFootNoFlipIKJoint
+    400864: John:LeftFootPVIKJoint
+    400866: John:LeftHandFKGroup
+    400868: John:LeftLegFKControl
+    400870: John:LeftLegIKJoint
+    400872: John:LeftLegNoFlipIKJoint
+    400874: John:LeftLegPVIKJoint
+    400876: John:LeftLegSettingsControl
+    400878: John:LeftLegSkeletonGroup
+    400880: John:LeftToe1FKControl
+    400882: John:LeftToe1IKJoint
+    400884: John:LeftToe2FKJoint
+    400886: John:LeftToe2IKJoint
+    400888: John:LeftUpLegFKControl
+    400890: John:LeftUpLegIKJoint
+    400892: John:LeftUpLegNoFlipIKJoint
+    400894: John:LeftUpLegPVIKJoint
+    400896: John:MiddleFingerControl
+    400898: John:MiddleFingerControl 1
+    400900: John:PinkyFingerControl
+    400902: John:PinkyFingerControl 1
+    400904: John:RightFootFKControlJoint
+    400906: John:RightFootIKJoint
+    400908: John:RightFootNoFlipIKJoint
+    400910: John:RightFootPVIKJoint
+    400912: John:RightHandFKGroup
+    400914: John:RightHandGroup
+    400916: John:RightLegFKControlJoint
+    400918: John:RightLegIKJoint
+    400920: John:RIghtLegIKSkeletonGroup
+    400922: John:RightLegNoFlipIKJoint
+    400924: John:RightLegPVIKJoint
+    400926: John:RightLegSettingsControl
+    400928: John:RightToe1FKControlJoint
+    400930: John:RightToe1IKJoint
+    400932: John:RightToe2FKControlJoint
+    400934: John:RightToe2IKJoint
+    400936: John:RightUpLegFKControlJoint
+    400938: John:RightUpLegIKJoint
+    400940: John:RightUpLegNoFlipIKJoint
+    400942: John:RightUpLegPVIKJoint
+    400944: John:RingFingerControl
+    400946: John:RingFingerControl 1
+    400948: John:SettingsGroup
+    400950: John:ThumbControl
+    400952: John:ThumbControl 1
+    7400000: JohnIdle
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: JohnIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: John:JohnControlRig
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:HandGlobalControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:IndexFingerControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:MiddleFingerControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:PinkyFingerControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:RingFingerControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:HandGroupLeft/John:ThumbControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1/John:JohnLeftHandFKIndexOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1/John:JohnLeftHandFKIndexOrient2/John:JohnLeftHandFKIndex2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1/John:JohnLeftHandFKIndexOrient2/John:JohnLeftHandFKIndex2/John:JohnLeftHandFKIndexOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1/John:JohnLeftHandFKIndexOrient2/John:JohnLeftHandFKIndex2/John:JohnLeftHandFKIndexOrient3/John:JohnLeftHandFKIndex3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKIndexOrient1/John:JohnLeftHandFKIndex1/John:JohnLeftHandFKIndexOrient2/John:JohnLeftHandFKIndex2/John:JohnLeftHandFKIndexOrient3/John:JohnLeftHandFKIndex3/John:JohnLeftHandFKIndex4
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1/John:JohnLeftHandFKMiddleOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1/John:JohnLeftHandFKMiddleOrient2/John:JohnLeftHandFKMiddle2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1/John:JohnLeftHandFKMiddleOrient2/John:JohnLeftHandFKMiddle2/John:JohnLeftHandFKMiddleOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1/John:JohnLeftHandFKMiddleOrient2/John:JohnLeftHandFKMiddle2/John:JohnLeftHandFKMiddleOrient3/John:JohnLeftHandFKMiddle3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKMiddleOrient1/John:JohnLeftHandFKMiddle1/John:JohnLeftHandFKMiddleOrient2/John:JohnLeftHandFKMiddle2/John:JohnLeftHandFKMiddleOrient3/John:JohnLeftHandFKMiddle3/John:JohnLeftHandFKMiddle4
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1/John:JohnLeftHandFKPinkyOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1/John:JohnLeftHandFKPinkyOrient2/John:JohnLeftHandFKPinky2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1/John:JohnLeftHandFKPinkyOrient2/John:JohnLeftHandFKPinky2/John:JohnLeftHandFKPinkyOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1/John:JohnLeftHandFKPinkyOrient2/John:JohnLeftHandFKPinky2/John:JohnLeftHandFKPinkyOrient3/John:JohnLeftHandFKPinky3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKPinkyOrient1/John:JohnLeftHandFKPinky1/John:JohnLeftHandFKPinkyOrient2/John:JohnLeftHandFKPinky2/John:JohnLeftHandFKPinkyOrient3/John:JohnLeftHandFKPinky3/John:JohnLeftHandFKPinky4
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1/John:JohnLeftHandFKRingOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1/John:JohnLeftHandFKRingOrient2/John:JohnLeftHandFKRing2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1/John:JohnLeftHandFKRingOrient2/John:JohnLeftHandFKRing2/John:JohnLeftHandFKRingOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1/John:JohnLeftHandFKRingOrient2/John:JohnLeftHandFKRing2/John:JohnLeftHandFKRingOrient3/John:JohnLeftHandFKRing3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKRingOrient1/John:JohnLeftHandFKRing1/John:JohnLeftHandFKRingOrient2/John:JohnLeftHandFKRing2/John:JohnLeftHandFKRingOrient3/John:JohnLeftHandFKRing3/John:JohnLeftHandFKRing4
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1/John:JohnLeftHandFKThumbOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1/John:JohnLeftHandFKThumbOrient2/John:JohnLeftHandFKThumb2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1/John:JohnLeftHandFKThumbOrient2/John:JohnLeftHandFKThumb2/John:JohnLeftHandFKThumbOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1/John:JohnLeftHandFKThumbOrient2/John:JohnLeftHandFKThumb2/John:JohnLeftHandFKThumbOrient3/John:JohnLeftHandFKThumb3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftHandFKGroup/John:JohnLeftHandFK/John:JohnLeftHandFKThumbOrient1/John:JohnLeftHandFKThumb1/John:JohnLeftHandFKThumbOrient2/John:JohnLeftHandFKThumb2/John:JohnLeftHandFKThumbOrient3/John:JohnLeftHandFKThumb3/John:JohnLeftHandFKThumb4
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegFKControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegFKControl/John:LeftLegFKControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegFKControl/John:LeftLegFKControl/John:LeftFootFKControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegFKControl/John:LeftLegFKControl/John:LeftFootFKControl/John:LeftToe1FKControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegFKControl/John:LeftLegFKControl/John:LeftFootFKControl/John:LeftToe1FKControl/John:LeftToe2FKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegIKJoint/John:LeftLegIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegIKJoint/John:LeftLegIKJoint/John:LeftFootIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegIKJoint/John:LeftLegIKJoint/John:LeftFootIKJoint/John:LeftToe1IKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegIKJoint/John:LeftLegIKJoint/John:LeftFootIKJoint/John:LeftToe1IKJoint/John:LeftToe2IKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegNoFlipIKJoint/John:LeftLegNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegNoFlipIKJoint/John:LeftLegNoFlipIKJoint/John:LeftFootNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegPVIKJoint/John:LeftLegPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:LeftLegSkeletonGroup/John:LeftUpLegPVIKJoint/John:LeftLegPVIKJoint/John:LeftFootPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKIndexOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKIndexOrient1/John:JohnRightHandFKIndex1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKIndexOrient1/John:JohnRightHandFKIndex1/John:JohnRightHandFKIndexOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKIndexOrient1/John:JohnRightHandFKIndex1/John:JohnRightHandFKIndexOrient2/John:JohnRightHandFKIndex2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKIndexOrient1/John:JohnRightHandFKIndex1/John:JohnRightHandFKIndexOrient2/John:JohnRightHandFKIndex2/John:JohnRightHandFKIndexOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKMiddleOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKMiddleOrient1/John:JohnRightHandFKMiddle1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKMiddleOrient1/John:JohnRightHandFKMiddle1/John:JohnRightHandFKMiddleOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKMiddleOrient1/John:JohnRightHandFKMiddle1/John:JohnRightHandFKMiddleOrient2/John:JohnRightHandFKMiddle2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKMiddleOrient1/John:JohnRightHandFKMiddle1/John:JohnRightHandFKMiddleOrient2/John:JohnRightHandFKMiddle2/John:JohnRightHandFKMiddleOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKPinkyOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKPinkyOrient1/John:JohnRightHandFKPinky1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKPinkyOrient1/John:JohnRightHandFKPinky1/John:JohnRightHandFKPinkyOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKPinkyOrient1/John:JohnRightHandFKPinky1/John:JohnRightHandFKPinkyOrient2/John:JohnRightHandFKPinky2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKPinkyOrient1/John:JohnRightHandFKPinky1/John:JohnRightHandFKPinkyOrient2/John:JohnRightHandFKPinky2/John:JohnRightHandFKPinkyOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKRingOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKRingOrient1/John:JohnRightHandFKRing1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKRingOrient1/John:JohnRightHandFKRing1/John:JohnRightHandFKRingOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKRingOrient1/John:JohnRightHandFKRing1/John:JohnRightHandFKRingOrient2/John:JohnRightHandFKRing2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKRingOrient1/John:JohnRightHandFKRing1/John:JohnRightHandFKRingOrient2/John:JohnRightHandFKRing2/John:JohnRightHandFKRingOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKThumbOrient1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKThumbOrient1/John:JohnRightHandFKThumb1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKThumbOrient1/John:JohnRightHandFKThumb1/John:JohnRightHandFKThumbOrient2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKThumbOrient1/John:JohnRightHandFKThumb1/John:JohnRightHandFKThumbOrient2/John:JohnRightHandFKThumb2
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandFKGroup/John:JohnRightHandFK/John:JohnRightHandFKThumbOrient1/John:JohnRightHandFKThumb1/John:JohnRightHandFKThumbOrient2/John:JohnRightHandFKThumb2/John:JohnRightHandFKThumbOrient3
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:HandGlobalControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:IndexFingerControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:MiddleFingerControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:PinkyFingerControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:RingFingerControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RightHandGroup/John:ThumbControl
+          1
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegFKControlJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegFKControlJoint/John:RightLegFKControlJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegFKControlJoint/John:RightLegFKControlJoint/John:RightFootFKControlJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegFKControlJoint/John:RightLegFKControlJoint/John:RightFootFKControlJoint/John:RightToe1FKControlJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegFKControlJoint/John:RightLegFKControlJoint/John:RightFootFKControlJoint/John:RightToe1FKControlJoint/John:RightToe2FKControlJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegIKJoint/John:RightLegIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegIKJoint/John:RightLegIKJoint/John:RightFootIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegIKJoint/John:RightLegIKJoint/John:RightFootIKJoint/John:RightToe1IKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegIKJoint/John:RightLegIKJoint/John:RightFootIKJoint/John:RightToe1IKJoint/John:RightToe2IKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegNoFlipIKJoint/John:RightLegNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegNoFlipIKJoint/John:RightLegNoFlipIKJoint/John:RightFootNoFlipIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegPVIKJoint/John:RightLegPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:RIghtLegIKSkeletonGroup/John:RightUpLegPVIKJoint/John:RightLegPVIKJoint/John:RightFootPVIKJoint
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:SettingsGroup
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:SettingsGroup/John:LeftLegSettingsControl
+        weight: 1
+      - path: John:JohnControlRig/John:JohnRootTransform/John:ControlGroup/John:SettingsGroup/John:RightLegSettingsControl
+        weight: 1
+      - path: John:johnRig:JohnSkeleton
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnLeftUpLeg
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnLeftUpLeg/John:johnRig:JohnLeftLeg
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnLeftUpLeg/John:johnRig:JohnLeftLeg/John:johnRig:JohnLeftFoot
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnLeftUpLeg/John:johnRig:JohnLeftLeg/John:johnRig:JohnLeftFoot/John:johnRig:JohnLeftToe1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnLeftUpLeg/John:johnRig:JohnLeftLeg/John:johnRig:JohnLeftFoot/John:johnRig:JohnLeftToe1/John:johnRig:JohnLeftToe2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnRightUpLeg
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnRightUpLeg/John:johnRig:JohnRightLeg
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnRightUpLeg/John:johnRig:JohnRightLeg/John:johnRig:JohnRightFoot
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnRightUpLeg/John:johnRig:JohnRightLeg/John:johnRig:JohnRightFoot/John:johnRig:JohnRightToe1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnRightUpLeg/John:johnRig:JohnRightLeg/John:johnRig:JohnRightFoot/John:johnRig:JohnRightToe1/John:johnRig:JohnRightToe2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1/John:johnRig:JohnLeftHandIndexOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1/John:johnRig:JohnLeftHandIndexOrient2/John:johnRig:JohnLeftHandIndex2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1/John:johnRig:JohnLeftHandIndexOrient2/John:johnRig:JohnLeftHandIndex2/John:johnRig:JohnLeftHandIndexOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1/John:johnRig:JohnLeftHandIndexOrient2/John:johnRig:JohnLeftHandIndex2/John:johnRig:JohnLeftHandIndexOrient3/John:johnRig:JohnLeftHandIndex3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandIndexOrient1/John:johnRig:JohnLeftHandIndex1/John:johnRig:JohnLeftHandIndexOrient2/John:johnRig:JohnLeftHandIndex2/John:johnRig:JohnLeftHandIndexOrient3/John:johnRig:JohnLeftHandIndex3/John:johnRig:JohnLeftHandIndex4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1/John:johnRig:JohnLeftHandMiddleOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1/John:johnRig:JohnLeftHandMiddleOrient2/John:johnRig:JohnLeftHandMiddle2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1/John:johnRig:JohnLeftHandMiddleOrient2/John:johnRig:JohnLeftHandMiddle2/John:johnRig:JohnLeftHandMiddleOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1/John:johnRig:JohnLeftHandMiddleOrient2/John:johnRig:JohnLeftHandMiddle2/John:johnRig:JohnLeftHandMiddleOrient3/John:johnRig:JohnLeftHandMiddle3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandMiddleOrient1/John:johnRig:JohnLeftHandMiddle1/John:johnRig:JohnLeftHandMiddleOrient2/John:johnRig:JohnLeftHandMiddle2/John:johnRig:JohnLeftHandMiddleOrient3/John:johnRig:JohnLeftHandMiddle3/John:johnRig:JohnLeftHandMiddle4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1/John:johnRig:JohnLeftHandPinkyOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1/John:johnRig:JohnLeftHandPinkyOrient2/John:johnRig:JohnLeftHandPinky2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1/John:johnRig:JohnLeftHandPinkyOrient2/John:johnRig:JohnLeftHandPinky2/John:johnRig:JohnLeftHandPinkyOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1/John:johnRig:JohnLeftHandPinkyOrient2/John:johnRig:JohnLeftHandPinky2/John:johnRig:JohnLeftHandPinkyOrient3/John:johnRig:JohnLeftHandPinky3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandPinkyOrient1/John:johnRig:JohnLeftHandPinky1/John:johnRig:JohnLeftHandPinkyOrient2/John:johnRig:JohnLeftHandPinky2/John:johnRig:JohnLeftHandPinkyOrient3/John:johnRig:JohnLeftHandPinky3/John:johnRig:JohnLeftHandPinky4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1/John:johnRig:JohnLeftHandRingOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1/John:johnRig:JohnLeftHandRingOrient2/John:johnRig:JohnLeftHandRing2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1/John:johnRig:JohnLeftHandRingOrient2/John:johnRig:JohnLeftHandRing2/John:johnRig:JohnLeftHandRingOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1/John:johnRig:JohnLeftHandRingOrient2/John:johnRig:JohnLeftHandRing2/John:johnRig:JohnLeftHandRingOrient3/John:johnRig:JohnLeftHandRing3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandRingOrient1/John:johnRig:JohnLeftHandRing1/John:johnRig:JohnLeftHandRingOrient2/John:johnRig:JohnLeftHandRing2/John:johnRig:JohnLeftHandRingOrient3/John:johnRig:JohnLeftHandRing3/John:johnRig:JohnLeftHandRing4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1/John:johnRig:JohnLeftHandThumbOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1/John:johnRig:JohnLeftHandThumbOrient2/John:johnRig:JohnLeftHandThumb2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1/John:johnRig:JohnLeftHandThumbOrient2/John:johnRig:JohnLeftHandThumb2/John:johnRig:JohnLeftHandThumbOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1/John:johnRig:JohnLeftHandThumbOrient2/John:johnRig:JohnLeftHandThumb2/John:johnRig:JohnLeftHandThumbOrient3/John:johnRig:JohnLeftHandThumb3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnLeftShoulder/John:johnRig:JohnLeftArm/John:johnRig:JohnLeftArm1/John:johnRig:JohnLeftArm2/John:johnRig:JohnLeftArm3/John:johnRig:JohnLeftArm4/John:johnRig:JohnLeftForeArm/John:johnRig:JohnLeftForeArm1/John:johnRig:JohnLeftForeArm2/John:johnRig:JohnLeftForeArm3/John:johnRig:JohnLeftHand/John:johnRig:JohnLeftHandThumbOrient1/John:johnRig:JohnLeftHandThumb1/John:johnRig:JohnLeftHandThumbOrient2/John:johnRig:JohnLeftHandThumb2/John:johnRig:JohnLeftHandThumbOrient3/John:johnRig:JohnLeftHandThumb3/John:johnRig:JohnLeftHandThumb4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnNeck01
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnNeck01/John:johnRig:JohnHead
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1/John:johnRig:JohnRightHandIndexOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1/John:johnRig:JohnRightHandIndexOrient2/John:johnRig:JohnRightHandIndex2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1/John:johnRig:JohnRightHandIndexOrient2/John:johnRig:JohnRightHandIndex2/John:johnRig:JohnRightHandIndexOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1/John:johnRig:JohnRightHandIndexOrient2/John:johnRig:JohnRightHandIndex2/John:johnRig:JohnRightHandIndexOrient3/John:johnRig:JohnRightHandIndex3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandIndexOrient1/John:johnRig:JohnRightHandIndex1/John:johnRig:JohnRightHandIndexOrient2/John:johnRig:JohnRightHandIndex2/John:johnRig:JohnRightHandIndexOrient3/John:johnRig:JohnRightHandIndex3/John:johnRig:JohnRightHandIndex4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1/John:johnRig:JohnRightHandMiddleOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1/John:johnRig:JohnRightHandMiddleOrient2/John:johnRig:JohnRightHandMiddle2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1/John:johnRig:JohnRightHandMiddleOrient2/John:johnRig:JohnRightHandMiddle2/John:johnRig:JohnRightHandMiddleOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1/John:johnRig:JohnRightHandMiddleOrient2/John:johnRig:JohnRightHandMiddle2/John:johnRig:JohnRightHandMiddleOrient3/John:johnRig:JohnRightHandMiddle3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandMiddleOrient1/John:johnRig:JohnRightHandMiddle1/John:johnRig:JohnRightHandMiddleOrient2/John:johnRig:JohnRightHandMiddle2/John:johnRig:JohnRightHandMiddleOrient3/John:johnRig:JohnRightHandMiddle3/John:johnRig:JohnRightHandMiddle4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1/John:johnRig:JohnRightHandPinkyOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1/John:johnRig:JohnRightHandPinkyOrient2/John:johnRig:JohnRightHandPinky2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1/John:johnRig:JohnRightHandPinkyOrient2/John:johnRig:JohnRightHandPinky2/John:johnRig:JohnRightHandPinkyOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1/John:johnRig:JohnRightHandPinkyOrient2/John:johnRig:JohnRightHandPinky2/John:johnRig:JohnRightHandPinkyOrient3/John:johnRig:JohnRightHandPinky3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandPinkyOrient1/John:johnRig:JohnRightHandPinky1/John:johnRig:JohnRightHandPinkyOrient2/John:johnRig:JohnRightHandPinky2/John:johnRig:JohnRightHandPinkyOrient3/John:johnRig:JohnRightHandPinky3/John:johnRig:JohnRightHandPinky4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1/John:johnRig:JohnRightHandRingOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1/John:johnRig:JohnRightHandRingOrient2/John:johnRig:JohnRightHandRing2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1/John:johnRig:JohnRightHandRingOrient2/John:johnRig:JohnRightHandRing2/John:johnRig:JohnRightHandRingOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1/John:johnRig:JohnRightHandRingOrient2/John:johnRig:JohnRightHandRing2/John:johnRig:JohnRightHandRingOrient3/John:johnRig:JohnRightHandRing3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandRingOrient1/John:johnRig:JohnRightHandRing1/John:johnRig:JohnRightHandRingOrient2/John:johnRig:JohnRightHandRing2/John:johnRig:JohnRightHandRingOrient3/John:johnRig:JohnRightHandRing3/John:johnRig:JohnRightHandRing4
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1/John:johnRig:JohnRightHandThumbOrient2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1/John:johnRig:JohnRightHandThumbOrient2/John:johnRig:JohnRightHandThumb2
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1/John:johnRig:JohnRightHandThumbOrient2/John:johnRig:JohnRightHandThumb2/John:johnRig:JohnRightHandThumbOrient3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1/John:johnRig:JohnRightHandThumbOrient2/John:johnRig:JohnRightHandThumb2/John:johnRig:JohnRightHandThumbOrient3/John:johnRig:JohnRightHandThumb3
+        weight: 1
+      - path: John:johnRig:JohnSkeleton/John:johnRig:JohnHips/John:johnRig:JohnSpine/John:johnRig:JohnSpine1/John:johnRig:JohnSpine2/John:johnRig:JohnSpine3/John:johnRig:JohnSpine4/John:johnRig:JohnNeck/John:johnRig:JohnRightShoulder/John:johnRig:JohnRightArm/John:johnRig:JohnRightArm1/John:johnRig:JohnRightArm2/John:johnRig:JohnRightArm3/John:johnRig:JohnRightArm4/John:johnRig:JohnRightForeArm/John:johnRig:JohnRightForeArm1/John:johnRig:JohnRightForeArm2/John:johnRig:JohnRightForeArm3/John:johnRig:JohnRightHand/John:johnRig:JohnRightHandThumbOrient1/John:johnRig:JohnRightHandThumb1/John:johnRig:JohnRightHandThumbOrient2/John:johnRig:JohnRightHandThumb2/John:johnRig:JohnRightHandThumbOrient3/John:johnRig:JohnRightHandThumb3/John:johnRig:JohnRightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 99d6e2f339667d04d9a237d058b4dc86,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

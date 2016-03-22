@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 101ac0a48630a78478610835e872053d
+timeCreated: 1458590057
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: John:FPSCam
+    100002: John:johnRig:glassMesh
+    100004: John:johnRig:helmetMesh
+    100006: John:johnRig:JohnExtras
+    100008: John:johnRig:JohnHips
+    100010: John:johnRig:JohnNeck
+    100012: John:johnRig:JohnNeck01
+    100014: John:johnRig:JohnSkeleton
+    100016: John:johnRig:JohnSpine
+    100018: John:johnRig:JohnSpine1
+    100020: John:johnRig:JohnSpine2
+    100022: John:johnRig:JohnSpine3
+    100024: John:johnRig:JohnSpine4
+    100026: //RootNode
+    400000: John:FPSCam
+    400002: John:johnRig:glassMesh
+    400004: John:johnRig:helmetMesh
+    400006: John:johnRig:JohnExtras
+    400008: John:johnRig:JohnHips
+    400010: John:johnRig:JohnNeck
+    400012: John:johnRig:JohnNeck01
+    400014: John:johnRig:JohnSkeleton
+    400016: John:johnRig:JohnSpine
+    400018: John:johnRig:JohnSpine1
+    400020: John:johnRig:JohnSpine2
+    400022: John:johnRig:JohnSpine3
+    400024: John:johnRig:JohnSpine4
+    400026: //RootNode
+    2300000: John:johnRig:glassMesh
+    2300002: John:johnRig:helmetMesh
+    3300000: John:johnRig:glassMesh
+    3300002: John:johnRig:helmetMesh
+    4300000: John:johnRig:helmetMesh
+    4300002: John:johnRig:glassMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

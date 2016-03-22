@@ -1,0 +1,1322 @@
+fileFormatVersion: 2
+guid: e0a9914c31ea99047babd8992f877c24
+timeCreated: 1458538082
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back1
+    100002: bodyMesh
+    100004: glassMesh
+    100006: helmetMesh
+    100008: JohnHips
+    100010: JohnLeftArm
+    100012: JohnLeftArm1
+    100014: JohnLeftArm2
+    100016: JohnLeftArm3
+    100018: JohnLeftArm4
+    100020: JohnLeftFoot
+    100022: JohnLeftForeArm
+    100024: JohnLeftForeArm1
+    100026: JohnLeftForeArm2
+    100028: JohnLeftForeArm3
+    100030: JohnLeftHand
+    100032: JohnLeftHandIndex1
+    100034: JohnLeftHandIndex2
+    100036: JohnLeftHandIndex3
+    100038: JohnLeftHandIndex4
+    100040: JohnLeftHandIndexOrient1
+    100042: JohnLeftHandIndexOrient2
+    100044: JohnLeftHandIndexOrient3
+    100046: JohnLeftHandMiddle1
+    100048: JohnLeftHandMiddle2
+    100050: JohnLeftHandMiddle3
+    100052: JohnLeftHandMiddle4
+    100054: JohnLeftHandMiddleOrient1
+    100056: JohnLeftHandMiddleOrient2
+    100058: JohnLeftHandMiddleOrient3
+    100060: JohnLeftHandPinky1
+    100062: JohnLeftHandPinky2
+    100064: JohnLeftHandPinky3
+    100066: JohnLeftHandPinky4
+    100068: JohnLeftHandPinkyOrient1
+    100070: JohnLeftHandPinkyOrient2
+    100072: JohnLeftHandPinkyOrient3
+    100074: JohnLeftHandRing1
+    100076: JohnLeftHandRing2
+    100078: JohnLeftHandRing3
+    100080: JohnLeftHandRing4
+    100082: JohnLeftHandRingOrient1
+    100084: JohnLeftHandRingOrient2
+    100086: JohnLeftHandRingOrient3
+    100088: JohnLeftHandThumb1
+    100090: JohnLeftHandThumb2
+    100092: JohnLeftHandThumb3
+    100094: JohnLeftHandThumb4
+    100096: JohnLeftHandThumbOrient1
+    100098: JohnLeftHandThumbOrient2
+    100100: JohnLeftHandThumbOrient3
+    100102: JohnLeftLeg
+    100104: JohnLeftShoulder
+    100106: JohnLeftToe1
+    100108: JohnLeftToe2
+    100110: JohnLeftUpLeg
+    100112: JohnMesh
+    100114: JohnNeck
+    100116: //RootNode
+    100118: JohnRightArm
+    100120: JohnRightArm1
+    100122: JohnRightArm2
+    100124: JohnRightArm3
+    100126: JohnRightArm4
+    100128: JohnRightFoot
+    100130: JohnRightForeArm
+    100132: JohnRightForeArm1
+    100134: JohnRightForeArm2
+    100136: JohnRightForeArm3
+    100138: JohnRightHand
+    100140: JohnRightHandIndex1
+    100142: JohnRightHandIndex2
+    100144: JohnRightHandIndex3
+    100146: JohnRightHandIndex4
+    100148: JohnRightHandIndexOrient1
+    100150: JohnRightHandIndexOrient2
+    100152: JohnRightHandIndexOrient3
+    100154: JohnRightHandMiddle1
+    100156: JohnRightHandMiddle2
+    100158: JohnRightHandMiddle3
+    100160: JohnRightHandMiddle4
+    100162: JohnRightHandMiddleOrient1
+    100164: JohnRightHandMiddleOrient2
+    100166: JohnRightHandMiddleOrient3
+    100168: JohnRightHandPinky1
+    100170: JohnRightHandPinky2
+    100172: JohnRightHandPinky3
+    100174: JohnRightHandPinky4
+    100176: JohnRightHandPinkyOrient1
+    100178: JohnRightHandPinkyOrient2
+    100180: JohnRightHandPinkyOrient3
+    100182: JohnRightHandRing1
+    100184: JohnRightHandRing2
+    100186: JohnRightHandRing3
+    100188: JohnRightHandRing4
+    100190: JohnRightHandRingOrient1
+    100192: JohnRightHandRingOrient2
+    100194: JohnRightHandRingOrient3
+    100196: JohnRightHandThumb1
+    100198: JohnRightHandThumb2
+    100200: JohnRightHandThumb3
+    100202: JohnRightHandThumb4
+    100204: JohnRightHandThumbOrient1
+    100206: JohnRightHandThumbOrient2
+    100208: JohnRightHandThumbOrient3
+    100210: JohnRightLeg
+    100212: JohnRightShoulder
+    100214: JohnRightToe1
+    100216: JohnRightToe2
+    100218: JohnRightUpLeg
+    100220: JohnSkeleton
+    100222: JohnSpine
+    100224: JohnSpine1
+    100226: JohnSpine2
+    100228: JohnSpine3
+    100230: JohnSpine4
+    100232: JohnHead
+    100234: JohnUpperTorsoe
+    100236: JohnNeck01
+    400000: back1
+    400002: bodyMesh
+    400004: glassMesh
+    400006: helmetMesh
+    400008: JohnHips
+    400010: JohnLeftArm
+    400012: JohnLeftArm1
+    400014: JohnLeftArm2
+    400016: JohnLeftArm3
+    400018: JohnLeftArm4
+    400020: JohnLeftFoot
+    400022: JohnLeftForeArm
+    400024: JohnLeftForeArm1
+    400026: JohnLeftForeArm2
+    400028: JohnLeftForeArm3
+    400030: JohnLeftHand
+    400032: JohnLeftHandIndex1
+    400034: JohnLeftHandIndex2
+    400036: JohnLeftHandIndex3
+    400038: JohnLeftHandIndex4
+    400040: JohnLeftHandIndexOrient1
+    400042: JohnLeftHandIndexOrient2
+    400044: JohnLeftHandIndexOrient3
+    400046: JohnLeftHandMiddle1
+    400048: JohnLeftHandMiddle2
+    400050: JohnLeftHandMiddle3
+    400052: JohnLeftHandMiddle4
+    400054: JohnLeftHandMiddleOrient1
+    400056: JohnLeftHandMiddleOrient2
+    400058: JohnLeftHandMiddleOrient3
+    400060: JohnLeftHandPinky1
+    400062: JohnLeftHandPinky2
+    400064: JohnLeftHandPinky3
+    400066: JohnLeftHandPinky4
+    400068: JohnLeftHandPinkyOrient1
+    400070: JohnLeftHandPinkyOrient2
+    400072: JohnLeftHandPinkyOrient3
+    400074: JohnLeftHandRing1
+    400076: JohnLeftHandRing2
+    400078: JohnLeftHandRing3
+    400080: JohnLeftHandRing4
+    400082: JohnLeftHandRingOrient1
+    400084: JohnLeftHandRingOrient2
+    400086: JohnLeftHandRingOrient3
+    400088: JohnLeftHandThumb1
+    400090: JohnLeftHandThumb2
+    400092: JohnLeftHandThumb3
+    400094: JohnLeftHandThumb4
+    400096: JohnLeftHandThumbOrient1
+    400098: JohnLeftHandThumbOrient2
+    400100: JohnLeftHandThumbOrient3
+    400102: JohnLeftLeg
+    400104: JohnLeftShoulder
+    400106: JohnLeftToe1
+    400108: JohnLeftToe2
+    400110: JohnLeftUpLeg
+    400112: JohnMesh
+    400114: JohnNeck
+    400116: //RootNode
+    400118: JohnRightArm
+    400120: JohnRightArm1
+    400122: JohnRightArm2
+    400124: JohnRightArm3
+    400126: JohnRightArm4
+    400128: JohnRightFoot
+    400130: JohnRightForeArm
+    400132: JohnRightForeArm1
+    400134: JohnRightForeArm2
+    400136: JohnRightForeArm3
+    400138: JohnRightHand
+    400140: JohnRightHandIndex1
+    400142: JohnRightHandIndex2
+    400144: JohnRightHandIndex3
+    400146: JohnRightHandIndex4
+    400148: JohnRightHandIndexOrient1
+    400150: JohnRightHandIndexOrient2
+    400152: JohnRightHandIndexOrient3
+    400154: JohnRightHandMiddle1
+    400156: JohnRightHandMiddle2
+    400158: JohnRightHandMiddle3
+    400160: JohnRightHandMiddle4
+    400162: JohnRightHandMiddleOrient1
+    400164: JohnRightHandMiddleOrient2
+    400166: JohnRightHandMiddleOrient3
+    400168: JohnRightHandPinky1
+    400170: JohnRightHandPinky2
+    400172: JohnRightHandPinky3
+    400174: JohnRightHandPinky4
+    400176: JohnRightHandPinkyOrient1
+    400178: JohnRightHandPinkyOrient2
+    400180: JohnRightHandPinkyOrient3
+    400182: JohnRightHandRing1
+    400184: JohnRightHandRing2
+    400186: JohnRightHandRing3
+    400188: JohnRightHandRing4
+    400190: JohnRightHandRingOrient1
+    400192: JohnRightHandRingOrient2
+    400194: JohnRightHandRingOrient3
+    400196: JohnRightHandThumb1
+    400198: JohnRightHandThumb2
+    400200: JohnRightHandThumb3
+    400202: JohnRightHandThumb4
+    400204: JohnRightHandThumbOrient1
+    400206: JohnRightHandThumbOrient2
+    400208: JohnRightHandThumbOrient3
+    400210: JohnRightLeg
+    400212: JohnRightShoulder
+    400214: JohnRightToe1
+    400216: JohnRightToe2
+    400218: JohnRightUpLeg
+    400220: JohnSkeleton
+    400222: JohnSpine
+    400224: JohnSpine1
+    400226: JohnSpine2
+    400228: JohnSpine3
+    400230: JohnSpine4
+    400232: JohnHead
+    400234: JohnUpperTorsoe
+    400236: JohnNeck01
+    2300000: glassMesh
+    2300002: helmetMesh
+    3300000: glassMesh
+    3300002: helmetMesh
+    4300000: helmetMesh
+    4300002: glassMesh
+    4300004: bodyMesh
+    9500000: //RootNode
+    13700000: bodyMesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''johnRig07'' conversion failed: Required human bone ''Head''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: JohnSpine
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnSpine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnUpperTorsoe
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftArm1
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightArm1
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftArm3
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightArm3
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftForeArm1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightForeArm1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftForeArm3
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightForeArm3
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftToe1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightToe1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandThumbOrient1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandThumbOrient2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandThumbOrient3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandIndexOrient1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandIndexOrient2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandIndexOrient3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandMiddleOrient1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandMiddleOrient2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandMiddleOrient3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandRingOrient1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandRingOrient2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandRingOrient3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandPinkyOrient1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandPinkyOrient2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnLeftHandPinkyOrient3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandThumbOrient1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandThumbOrient2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandThumbOrient3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandIndexOrient1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandIndexOrient2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandIndexOrient3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandMiddleOrient1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandMiddleOrient2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandMiddleOrient3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandRingOrient1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandRingOrient2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandRingOrient3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandPinkyOrient1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandPinkyOrient2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnRightHandPinkyOrient3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JohnHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: johnRig07(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: back1
+      position: {x: 2.6932728, y: 3.729598, z: -100.1}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnMesh
+      position: {x: -7.804181, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: bodyMesh
+      position: {x: -0, y: 6.087461, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: helmetMesh
+      position: {x: 7.888499, y: 6.2007046, z: 4.918427e-15}
+      rotation: {x: -0.12917219, y: 0.6952083, z: 0.12917219, w: 0.6952083}
+      scale: {x: 1.110634, y: 1.110634, z: 1.110634}
+      transformModified: 1
+    - name: glassMesh
+      position: {x: 8.66154e-18, y: 0.7071017, z: -0.25669086}
+      rotation: {x: 0.011793434, y: -0, z: -0, w: 0.9999305}
+      scale: {x: 0.9474562, y: 0.9474562, z: 0.9474562}
+      transformModified: 1
+    - name: JohnSkeleton
+      position: {x: -3.7538374e-15, y: 0, z: 0}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnHips
+      position: {x: -0, y: 3.434158, z: -0.061212696}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnSpine
+      position: {x: -0.35887423, y: 0, z: 3.9843043e-17}
+      rotation: {x: 0.2949652, y: 0.64264727, z: 0.64264727, w: -0.2949652}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftUpLeg
+      position: {x: -0.5730797, y: 0, z: -4.1633363e-17}
+      rotation: {x: -0.023440411, y: -0.009951401, z: -0.39065552, w: 0.9201847}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftLeg
+      position: {x: -1.3848519, y: -2.220446e-16, z: 2.7755576e-17}
+      rotation: {x: 0.63532585, y: 0.089258894, z: -0.10671972, w: 0.7596083}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftFoot
+      position: {x: -1.5264659, y: 8.326673e-17, z: -1.110223e-16}
+      rotation: {x: 0.9182431, y: 0.37903038, z: 0.04377968, w: -0.10606113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftToe1
+      position: {x: -0.54940075, y: -1.3877788e-17, z: -1.110223e-16}
+      rotation: {x: -0.0053793727, y: -0.0030231662, z: -0.4899157, w: 0.871748}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftToe2
+      position: {x: -0.5101058, y: -1.110223e-16, z: 0}
+      rotation: {x: -2.0664197e-15, y: 0.7071068, z: 2.0664197e-15, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightUpLeg
+      position: {x: 0.08586662, y: 0.5666137, z: -0.0000000049210676}
+      rotation: {x: -0.019438922, y: 0.0020155753, z: 0.8961835, w: 0.443253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightLeg
+      position: {x: 1.3848494, y: 0.0000005549917, z: -0.0000002756289}
+      rotation: {x: 0.057480644, y: -0.119966194, z: 0.0379489, w: 0.9903858}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightFoot
+      position: {x: 1.5257887, y: -0.004790853, z: 0.045149527}
+      rotation: {x: 0.009438726, y: 0.35467753, z: -0.009390978, w: 0.9348939}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightToe1
+      position: {x: 0.54844517, y: -0.029357951, z: -0.013688157}
+      rotation: {x: -0.002598578, y: 0.49811247, z: -0.001268444, w: 0.8671076}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightToe2
+      position: {x: 0.5072499, y: -0.053715784, z: -0.0044632573}
+      rotation: {x: 0.008987154, y: 0.0017880397, z: 0.0010404993, w: 0.9999575}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnSpine1
+      position: {x: 0.27832377, y: -0.32368162, z: -1.9009374e-16}
+      rotation: {x: -7.8062556e-16, y: 9.354496e-16, z: 1.5820678e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnSpine2
+      position: {x: 0.23093857, y: -0.2814891, z: 0.027205642}
+      rotation: {x: 0.24415393, y: 0.663618, z: 0.6140958, w: 0.3505515}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnSpine3
+      position: {x: -0.3872618, y: 0.00000020935403, z: -0.0000000020905249}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnSpine4
+      position: {x: -0.43517396, y: -0.00000020935403, z: 0.000000002090525}
+      rotation: {x: 0.9927703, y: 0.120029874, z: -3.8026223e-16, w: -3.1469658e-15}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnUpperTorsoe
+      position: {x: -0.6398249, y: 2.220446e-16, z: 1.6977997e-15}
+      rotation: {x: 0.53816026, y: 0.5456004, z: -0.45736748, w: 0.4511305}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftShoulder
+      position: {x: -0.34955975, y: -8.881784e-16, z: 1.110223e-16}
+      rotation: {x: -0.028745852, y: -0.0003444622, z: -0.011977211, w: 0.99951494}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftArm
+      position: {x: -0.5814722, y: 0, z: 5.551115e-17}
+      rotation: {x: -0.18226124, y: 0.0045365184, z: 0.024465453, w: 0.98293525}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftArm1
+      position: {x: -0.31759465, y: 0.017637951, z: -0.048841756}
+      rotation: {x: 6.661338e-16, y: 1.2490009e-16, z: -2.4286129e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftArm2
+      position: {x: -0.29072523, y: 0.016142623, z: -0.044710457}
+      rotation: {x: 6.661338e-16, y: -9.7144515e-17, z: 2.4286129e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftArm3
+      position: {x: -0.25076303, y: 0.013924088, z: -0.038564935}
+      rotation: {x: 6.938894e-16, y: 2.6367797e-16, z: 1.0061396e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftArm4
+      position: {x: -0.26530913, y: 0.014731592, z: -0.040802218}
+      rotation: {x: -0.40253502, y: -0.056288283, z: -0.12653184, w: 0.9048685}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftForeArm
+      position: {x: -0, y: -4.440892e-16, z: 8.881784e-16}
+      rotation: {x: -2.4980018e-16, y: -2.0816682e-17, z: -1.7347235e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftForeArm1
+      position: {x: -0.33067426, y: 0.00000024701413, z: -0.0000004867431}
+      rotation: {x: -1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftForeArm2
+      position: {x: -0.3261168, y: 0.00000070799257, z: 0.0000031090342}
+      rotation: {x: 6.938894e-16, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftForeArm3
+      position: {x: -0.29770747, y: 0.00000009590692, z: 0.0000011044651}
+      rotation: {x: 9.714451e-16, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHand
+      position: {x: -0.24867904, y: -0.0000010509136, z: -0.0000037267562}
+      rotation: {x: -0.34030008, y: 0.2197288, z: -0.3454858, w: 0.8464955}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndexOrient1
+      position: {x: -0.39541823, y: -0.14384307, z: -0.22356571}
+      rotation: {x: -0.59900105, y: -0.44818065, z: 0.19694972, w: 0.63367397}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndex1
+      position: {x: -1.2212453e-15, y: 1.7763568e-15, z: 0}
+      rotation: {x: 0, y: 2.7755576e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndexOrient2
+      position: {x: -0.15591042, y: 0.0051368997, z: 0.052677814}
+      rotation: {x: -1.4094236e-17, y: 3.0498708e-16, z: 0.049000986, w: 0.9987987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndex2
+      position: {x: -4.440892e-16, y: -8.881784e-16, z: -1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndexOrient3
+      position: {x: -0.1144963, y: -4.440892e-16, z: 0.037085533}
+      rotation: {x: -5.31556e-18, y: -2.4974399e-16, z: -0.0230149, w: 0.9997351}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndex3
+      position: {x: -0, y: 8.881784e-16, z: 1.110223e-16}
+      rotation: {x: 0, y: 5.551115e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandIndex4
+      position: {x: -0.10382411, y: -0.008606467, z: 0.033181794}
+      rotation: {x: 0, y: 0, z: 0.035015747, w: 0.9993868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddleOrient1
+      position: {x: -0.33226818, y: -0.22050685, z: -0.2649041}
+      rotation: {x: -0.5514075, y: -0.5032763, z: 0.23941255, w: 0.6207611}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddle1
+      position: {x: -4.440892e-16, y: 0, z: 2.220446e-16}
+      rotation: {x: 0, y: -2.7755576e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddleOrient2
+      position: {x: -0.16951911, y: -0.0003874247, z: 0.05598835}
+      rotation: {x: 2.7201011e-18, y: -5.5444467e-17, z: 0.049000986, w: 0.9987987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddle2
+      position: {x: -2.220446e-16, y: 8.881784e-16, z: -1.110223e-16}
+      rotation: {x: 0, y: 2.7755576e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddleOrient3
+      position: {x: -0.13498293, y: -0.006059427, z: 0.04435346}
+      rotation: {x: 6.387918e-19, y: 2.7748224e-17, z: -0.0230149, w: 0.9997351}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddle3
+      position: {x: -8.881784e-16, y: 0, z: 1.110223e-16}
+      rotation: {x: 0, y: 2.7755576e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandMiddle4
+      position: {x: -0.10382411, y: -0.008606467, z: 0.033181794}
+      rotation: {x: -8.851992e-18, y: 2.7741592e-16, z: 0.035015747, w: 0.9993868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinkyOrient1
+      position: {x: -0.16356702, y: -0.3258159, z: -0.24958323}
+      rotation: {x: -0.63600343, y: -0.5266184, z: 0.24621096, w: 0.5074966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinky1
+      position: {x: -4.440892e-16, y: 0, z: 4.440892e-16}
+      rotation: {x: 3.330669e-16, y: 1.110223e-16, z: -1.08867226e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinkyOrient2
+      position: {x: -0.14076267, y: 0.011285984, z: 0.04010897}
+      rotation: {x: -1.8053247e-17, y: 3.325818e-16, z: 0.049000986, w: 0.9987987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinky2
+      position: {x: 2.7755576e-16, y: 8.881784e-16, z: -4.440892e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinkyOrient3
+      position: {x: -0.08384889, y: 0.009064725, z: 0.028665034}
+      rotation: {x: 1.959732e-17, y: 8.324367e-16, z: -0.0230149, w: 0.9997351}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinky3
+      position: {x: -2.6367797e-16, y: -8.881784e-16, z: 4.440892e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandPinky4
+      position: {x: -0.11039831, y: -0.010884843, z: 0.03851282}
+      rotation: {x: 6.6981227e-18, y: -1.6640096e-16, z: 0.035015747, w: 0.9993868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRingOrient1
+      position: {x: -0.24804753, y: -0.28923476, z: -0.25976136}
+      rotation: {x: -0.53295076, y: -0.49080932, z: 0.2639659, w: 0.6367038}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRing1
+      position: {x: -0, y: 8.881784e-16, z: -4.9960036e-16}
+      rotation: {x: 0, y: 8.326673e-17, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRingOrient2
+      position: {x: -0.15834828, y: 0.0041472735, z: 0.049350444}
+      rotation: {x: 4.5738824e-18, y: -1.1093144e-16, z: 0.049000986, w: 0.9987987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRing2
+      position: {x: 4.440892e-16, y: 0, z: -1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRingOrient3
+      position: {x: -0.10586824, y: 0.0025519603, z: 0.035878737}
+      rotation: {x: 3.8327505e-18, y: 1.6648934e-16, z: -0.0230149, w: 0.9997351}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRing3
+      position: {x: 1.110223e-16, y: 0, z: -3.330669e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandRing4
+      position: {x: -0.10382411, y: -0.008606467, z: 0.033181794}
+      rotation: {x: -5.831293e-18, y: 1.6643133e-16, z: 0.035015747, w: 0.9993868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumbOrient1
+      position: {x: -0.21196678, y: -1.3322676e-15, z: 0}
+      rotation: {x: 0.005105145, y: 0.0062059825, z: 0.11264632, w: 0.99360263}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumb1
+      position: {x: -4.440892e-16, y: 2.220446e-16, z: -8.881784e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumbOrient2
+      position: {x: -0.18457203, y: -0.0030595753, z: -0.0124346595}
+      rotation: {x: 0, y: 0, z: 0.13173412, w: 0.9912851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumb2
+      position: {x: -2.220446e-16, y: -2.220446e-16, z: -8.881784e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumbOrient3
+      position: {x: -0.09520904, y: 0.0027289977, z: 0.0337219}
+      rotation: {x: 0, y: 0, z: 0.020819787, w: 0.9997833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumb3
+      position: {x: -0, y: -1.110223e-16, z: 8.881784e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnLeftHandThumb4
+      position: {x: -0.106197484, y: -0.01123574, z: 0.03638943}
+      rotation: {x: 0.53344584, y: 0.46415034, z: -0.17658444, w: 0.6847028}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnNeck
+      position: {x: 0.026305474, y: -0.27306703, z: 0.02612883}
+      rotation: {x: 0.49915782, y: 0.40489525, z: 0.60661715, w: 0.46788558}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnHead
+      position: {x: -0.72586906, y: -5.551115e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0.59001124, w: 0.80739504}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightShoulder
+      position: {x: 0.32803375, y: 0.01661369, z: 0.11962337}
+      rotation: {x: 0.983778, y: 0.0309189, z: 0.17407297, w: 0.030389838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightArm
+      position: {x: 0.58147264, y: 0.0000010795166, z: 9.632052e-10}
+      rotation: {x: 0.0076451786, y: -0.076562114, z: 0.022605728, w: 0.9967792}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightArm1
+      position: {x: 0.32179454, y: 0.0016365914, z: -0.0030362261}
+      rotation: {x: -0.027545862, y: 0.0007219661, z: 0.004748481, w: 0.999609}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightArm2
+      position: {x: 0.29457414, y: -0.00115695, z: -0.0023447932}
+      rotation: {x: 0.007209371, y: 0.0052132527, z: -0.0011987645, w: 0.9999597}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightArm3
+      position: {x: 0.25409186, y: -0.00039898182, z: 0.0006372813}
+      rotation: {x: 0.00013782375, y: 0.00082482444, z: -0.000022062773, w: 0.99999964}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightArm4
+      position: {x: 0.26882854, y: -0.00041460927, z: 0.0011182518}
+      rotation: {x: 0.024486193, y: -0.05074089, z: -0.051893063, w: 0.99706215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightForeArm
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 3.0531133e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightForeArm1
+      position: {x: 0.3306748, y: 0.0000052949454, z: -0.00000018819117}
+      rotation: {x: -0.012922659, y: 0, z: -0, w: 0.9999165}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightForeArm2
+      position: {x: 0.3261168, y: -0.000003156984, z: -0.00000044810687}
+      rotation: {x: -0.031077709, y: 0, z: -0, w: 0.99951696}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightForeArm3
+      position: {x: 0.29770747, y: -0.0000010449917, z: -0.00000037018071}
+      rotation: {x: 0.03510847, y: -0, z: -0, w: 0.9993835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHand
+      position: {x: 0.24867748, y: 0.000008130612, z: 0.0000003546108}
+      rotation: {x: 0.010387282, y: 0.006472641, z: -0.07975359, w: 0.9967395}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndexOrient1
+      position: {x: 0.4616206, y: 0.0263905, z: 0.11506976}
+      rotation: {x: 0.99250144, y: -0.06952026, z: -0.0021129248, w: 0.10051574}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndex1
+      position: {x: -1.5543122e-15, y: 1.7763568e-15, z: 3.330669e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndexOrient2
+      position: {x: 0.16455987, y: -0.0051282067, z: -0.0018850839}
+      rotation: {x: -0.014663316, y: -0.010453166, z: 0.046755586, w: 0.9987441}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndex2
+      position: {x: -1.3322676e-15, y: -8.881784e-16, z: -2.220446e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndexOrient3
+      position: {x: 0.12032813, y: -0.0000069397324, z: -0.0023844412}
+      rotation: {x: 0.0066867834, y: 0.001358107, z: -0.022022085, w: 0.9997342}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndex3
+      position: {x: 8.881784e-16, y: 0, z: -1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandIndex4
+      position: {x: 0.1089872, y: 0.00861415, z: -0.0014357737}
+      rotation: {x: -0.009655172, y: -0.016784355, z: 0.033658292, w: 0.9992458}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddleOrient1
+      position: {x: 0.4765174, y: 0.04505649, z: 0.01017209}
+      rotation: {x: 0.9937041, y: -0.06261754, z: -0.07210101, w: 0.058589827}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddle1
+      position: {x: -2.220446e-16, y: 1.7763568e-15, z: 2.7755576e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddleOrient2
+      position: {x: 0.17851974, y: 0.0003908849, z: 0.00054619944}
+      rotation: {x: -0.015513611, y: 0.000092176466, z: 0.046480373, w: 0.9987987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddle2
+      position: {x: 7.771561e-16, y: 0, z: 1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddleOrient3
+      position: {x: 0.14208286, y: 0.0060585598, z: 0.00067569327}
+      rotation: {x: 0.007108644, y: -0.008223777, z: -0.021889554, w: 0.9997013}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddle3
+      position: {x: -0, y: 8.881784e-16, z: -1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandMiddle4
+      position: {x: 0.10899389, y: 0.008606413, z: -0.00038732338}
+      rotation: {x: -0.01050106, y: -0.0011974872, z: 0.03340405, w: 0.9993861}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinkyOrient1
+      position: {x: 0.40447414, y: 0.030034447, z: -0.17521779}
+      rotation: {x: 0.9695064, y: -0.07792937, z: -0.14049198, w: 0.18505771}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinky1
+      position: {x: -1.3322676e-15, y: 0, z: 4.440892e-16}
+      rotation: {x: 1.3045121e-15, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinkyOrient2
+      position: {x: 0.14630039, y: -0.01128774, z: 0.0042316243}
+      rotation: {x: -0.015774332, y: 0.021232322, z: 0.046392538, w: 0.99857306}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinky2
+      position: {x: -2.7755576e-16, y: -8.881784e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinkyOrient3
+      position: {x: 0.088595614, y: -0.009063437, z: 0.0017372394}
+      rotation: {x: 0.007760852, y: -0.005061072, z: -0.021666901, w: 0.99972236}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinky3
+      position: {x: -7.771561e-16, y: -8.881784e-16, z: -4.440892e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandPinky4
+      position: {x: 0.11692501, y: 0.010884385, z: 0.0003777446}
+      rotation: {x: -0.010906937, y: -0.022117712, z: 0.033273734, w: 0.999142}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRingOrient1
+      position: {x: 0.4501409, y: 0.032666545, z: -0.09468098}
+      rotation: {x: 0.99201334, y: -0.08512658, z: -0.08888618, w: 0.027609933}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRing1
+      position: {x: -0, y: 0, z: 1.7347235e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRingOrient2
+      position: {x: 0.16583994, y: -0.0041539604, z: -0.002624449}
+      rotation: {x: -0.014592822, y: 0.016082402, z: 0.046777632, w: 0.99866927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRing2
+      position: {x: -4.440892e-16, y: 8.881784e-16, z: 1.110223e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRingOrient3
+      position: {x: 0.11177829, y: -0.0025497547, z: -0.0009225543}
+      rotation: {x: 0.0069672205, y: -0.01094046, z: -0.021934977, w: 0.9996753}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRing3
+      position: {x: -0, y: 1.7763568e-15, z: -1.2490009e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandRing4
+      position: {x: 0.10899248, y: 0.008606723, z: -0.0013874383}
+      rotation: {x: -0.010228995, y: -0.00016097377, z: 0.033488367, w: 0.9993868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumbOrient1
+      position: {x: 0.15007634, y: -0.05541646, z: 0.13905594}
+      rotation: {x: -0.76079357, y: 0.002807096, z: -0.315424, w: 0.56717986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumb1
+      position: {x: -4.440892e-16, y: -2.220446e-16, z: -8.881784e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumbOrient2
+      position: {x: 0.18457432, y: 0.003061339, z: 0.012430618}
+      rotation: {x: 0.000000013154839, y: 0.0000000017481764, z: 0.13173412, w: 0.9912851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumb2
+      position: {x: 2.220446e-16, y: -1.110223e-16, z: -1.7763568e-15}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumbOrient3
+      position: {x: 0.09520429, y: -0.002729973, z: -0.0337243}
+      rotation: {x: 0.000000050068163, y: 0.0000000010426344, z: 0.020819787, w: 0.9997833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumb3
+      position: {x: -2.220446e-16, y: 4.440892e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JohnRightHandThumb4
+      position: {x: 0.10619981, y: 0.011236595, z: -0.036394067}
+      rotation: {x: 0.18586484, y: -0.0036940156, z: -0.06828668, w: 0.9801926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

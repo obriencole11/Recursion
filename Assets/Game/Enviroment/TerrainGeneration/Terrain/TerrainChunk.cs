@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Threading;
 using System.Collections;
+using System.Collections.Generic;
+using StixGames;
 
 namespace TerrainGenerator
 {
@@ -25,6 +27,12 @@ namespace TerrainGenerator
         //Object for locking threads?
         private object HeightmapThreadLockObject { get; set; }
 
+        //List to store Randomly generated objects
+        private List<GameObject> generatedAssets = new List<GameObject>();
+        private List<GameObject> generatedObjects = new List<GameObject>();
+        //Class reference to the random object generator class
+        private ObjectGenerator objectGenerator;
+
         //Terrain Chunk class constructor
         public TerrainChunk(TerrainChunkSettings settings, NoiseProvider noiseProvider, int x, int z)
         {
@@ -34,7 +42,7 @@ namespace TerrainGenerator
             Settings = settings;
             NoiseProvider = noiseProvider;
             Neighborhood = new TerrainChunkNeighborhood();
-
+            objectGenerator = new ObjectGenerator();
             Position = new Vector2i(x, z);
 
         }
@@ -102,7 +110,7 @@ namespace TerrainGenerator
             //and the heights
             Data.SetHeights(0, 0, Heightmap);
             //apply a texture to the terrain
-            ApplyTextures(Data);
+            //ApplyTextures(Data);
             //Set the size of the terrain
             Data.size = new Vector3(Settings.Length, Settings.Height, Settings.Length);
             
@@ -111,16 +119,35 @@ namespace TerrainGenerator
             //set the position of the terrain
             newTerrainGameObject.transform.position = new Vector3(Position.X * Settings.Length, 0, Position.Z * Settings.Length);
 
+            //set the grass layer
+            newTerrainGameObject.layer = LayerMask.NameToLayer("Ground");
+
             //grab the terrain component and apply a material
             Terrain = newTerrainGameObject.GetComponent<Terrain>();
             Terrain.heightmapPixelError = 8;
             Terrain.materialType = UnityEngine.Terrain.MaterialType.Custom;
             Terrain.materialTemplate = Settings.TerrainMaterial;
+            Terrain.materialTemplate.SetTexture("_Displacement", Settings.DisplacementTexture);
             Terrain.reflectionProbeUsage = UnityEngine.Rendering.ReflectionProbeUsage.Off;
+
+            //Adds random enviroment objects to the list
+            objectGenerator.GenerateObjects(generatedAssets, 10);
+            //place objects on terrain
+            foreach (GameObject obj in generatedAssets)
+            {
+                
+                var x = Position.X * Settings.Length + Random.Range(0, Settings.Length);
+                var z = Position.Z * Settings.Length + Random.Range(0, Settings.Length);
+                Vector3 objPos = new Vector3(x, 0, z);
+                objPos.y = Terrain.SampleHeight(objPos);
+                GameObject clone = GameObject.Instantiate(obj, objPos, Quaternion.identity) as GameObject;
+                generatedObjects.Add(clone);
+            }
+
             //Flushes any change done in the terrain so it takes effect.
             Terrain.Flush();
         }
-
+        /*
         //This method creates a splatmap and applys it to the terrain based on steepness
         private void ApplyTextures(TerrainData terrainData)
         {
@@ -161,6 +188,13 @@ namespace TerrainGenerator
             terrainData.SetAlphamaps(0, 0, splatMap);
 
         }
+        */
+
+        private void ApplyDisplacementTexture(Terrain terrain)
+        {
+
+        }
+
         #endregion
 
         #region Distinction
@@ -210,6 +244,12 @@ namespace TerrainGenerator
             {
                 Neighborhood.ZUp.RemoveFromNeighborhood(this);
                 Neighborhood.ZUp = null;
+            }
+
+            //Remove Objects in Chunk
+            foreach (GameObject obj in generatedObjects)
+            {
+                GameObject.Destroy(obj);
             }
 
             //destroy the terrain object
