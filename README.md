@@ -1,5 +1,5 @@
 # Recursion
-####Recursion is a sci-fi horror short film built in the Unity game engine.
+###Recursion is a sci-fi horror short film built in the Unity game engine.
 
 The film follows a lone spaceman who, after a sudden crash landing, arrives in a dark dimension of endless barren grassland. With resources scarce, the spaceman ventures forth, slowly discovering that he is no longer alone in this world.
 
